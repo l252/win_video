@@ -1,0 +1,52 @@
+﻿  stdafx.cpp
+c:\users\administrator\desktop\agora\advanced-video-maste2r\advanced-video-master\windows\agora-media-source-windows\sdk\include\iagorartcengine.h(5672): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  AGButton.cpp
+  AGComboBox.cpp
+  AGConfig.cpp
+  AGDesktopCaptureDlg.cpp
+  AGDShowVideoCapture.cpp
+c:\users\administrator\desktop\agora\advanced-video-maste2r\advanced-video-master\windows\agora-media-source-windows\agoramediasource\agdshowvideocapture.cpp(469): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\desktop\agora\advanced-video-maste2r\advanced-video-master\windows\agora-media-source-windows\agoramediasource\agdshowvideocapture.cpp(553): warning C4101: “mt”: 未引用的局部变量
+  AGEdit.cpp
+  AGEngineEventHandler.cpp
+  AGHyperLink.cpp
+  AGLinkCtrl.cpp
+  AgoraAudInputManager.cpp
+  AgoraCameraManager.cpp
+  AgoraPlayoutManager.cpp
+  AgoraObject.cpp
+  AgVideoBuffer.cpp
+c:\users\administrator\desktop\agora\advanced-video-maste2r\advanced-video-master\windows\agora-media-source-windows\agoramediasource\agvideobuffer.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\desktop\agora\advanced-video-maste2r\advanced-video-master\windows\agora-media-source-windows\agoramediasource\agvideobuffer.cpp(48): warning C4018: “<”: 有符号/无符号不匹配
+  DShowHelper.cpp
+c:\users\administrator\desktop\agora\advanced-video-maste2r\advanced-video-master\windows\agora-media-source-windows\agoramediasource\dshowhelper.cpp(129): warning C4101: “pinInfo”: 未引用的局部变量
+  DskcapsetDlg.cpp
+  ExtCaptureDlg.cpp
+c:\users\administrator\desktop\agora\advanced-video-maste2r\advanced-video-master\windows\agora-media-source-windows\agoramediasource\extcapturedlg.cpp(244): warning C4101: “wavFormatEx”: 未引用的局部变量
+c:\users\administrator\desktop\agora\advanced-video-maste2r\advanced-video-master\windows\agora-media-source-windows\agoramediasource\extcapturedlg.cpp(240): warning C4101: “szDevicePath”: 未引用的局部变量
+  ExtendVideoFrameObserver.cpp
+  AgoraMediaSource.cpp
+  AgoraMediaSourceDlg.cpp
+  正在编译...
+  AGResourceVisitor.cpp
+c:\users\administrator\desktop\agora\advanced-video-maste2r\advanced-video-master\windows\agora-media-source-windows\agoramediasource\agresourcevisitor.cpp(44): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\desktop\agora\advanced-video-maste2r\advanced-video-master\windows\agora-media-source-windows\agoramediasource\agresourcevisitor.cpp(69): warning C4018: “<”: 有符号/无符号不匹配
+  AGScreenCaptureDlg.cpp
+  AGSliderCtrl.cpp
+  AGVideoTestWnd.cpp
+  AGVideoWnd.cpp
+  ChatDlg.cpp
+  DeviceDlg.cpp
+  EnterChannelDlg.cpp
+  LanguageSet.cpp
+  LogoDlg.cpp
+  SetupDlg.cpp
+  VideoDlg.cpp
+  video_preprocessing_plugin.cpp
+  capture-filter.cpp
+  正在生成代码
+  All 1532 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  AgoraMediaSource.vcxproj -> C:\Users\Administrator\Desktop\Agora\Advanced-Video-maste2r\Advanced-Video-master\Windows\Agora-Media-Source-Windows\Release\AgoraMediaSource.exe
+  ..\sdk\dll\agora_rtc_sdk.dll
+  已复制         1 个文件。
