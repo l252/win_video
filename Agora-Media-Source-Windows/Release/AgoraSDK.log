@@ -1,0 +1,1053 @@
+Local Date: 7‘¬ 22 2020 Local Time: 11:14:28
+Build info: Jun 17 2020 01:01:43 r
+
+INFO    11:14:28:636   3900; [rp] {"rtc.lastmile_test":true}
+INFO    11:14:28:636   3900; [nettest] last mile test enabled
+INFO    11:14:28:636   3900; [vocs] vocs initialized
+INFO    11:14:28:637   3900; [vocs] selected: 52.58.56.244:8000
+INFO    11:14:28:637   3900; tcp_client connecting 52.58.56.244:8000
+INFO    11:14:28:637   3900; [vocs] request vos list.......
+INFO    11:14:28:732   3900; [vocs] selected: 112.126.96.46:1080
+INFO    11:14:28:732   3900; [vocs] request vos list.......
+INFO    11:14:28:732   3900; [vocs] selected: 3.0.163.78:25000
+INFO    11:14:28:732   3900; [vocs] request vos list.......
+INFO    11:14:28:920   3900; [dns] parsed ip 69.171.245.53
+INFO    11:14:28:920   3900; [dns] parsed ip 183.232.231.172
+INFO    11:14:28:920   3900; [dns] parsed ip 183.232.231.174
+INFO    11:14:28:920   3900; [dns] parsed ip 116.62.127.18
+INFO    11:14:28:920   3900; [dns] parsed ip 47.97.157.160
+INFO    11:14:28:920   3900; [dns] parsed ip 101.132.119.238
+INFO    11:14:28:920   3900; [dns] parsed ip 112.126.76.219
+INFO    11:14:28:920   3900; [dns] parsed ip 116.62.134.61
+INFO    11:14:28:920   3900; [dns] parsed ip 47.95.242.6
+INFO    11:14:28:920   3900; [dns] parsed ip 47.95.116.69
+INFO    11:14:28:920   3900; [dns] parsed ip 47.94.215.36
+INFO    11:14:28:920   3900; [dns] parsed ip 47.95.250.218
+INFO    11:14:28:920   3900; [dns] parsed ip 47.95.242.6
+INFO    11:14:28:920   3900; [dns] parsed ip 47.95.116.69
+INFO    11:14:28:920   3900; [dns] parsed ip 47.94.215.36
+INFO    11:14:28:920   3900; [dns] parsed ip 47.97.157.160
+INFO    11:14:28:920   3900; [dns] parsed ip 116.62.134.61
+INFO    11:14:28:920   3900; [dns] parsed ip 116.62.127.18
+INFO    11:14:28:920   3900; [dns] parsed ip 101.132.119.238
+INFO    11:14:28:920   3900; [dns] parsed ip 47.95.250.218
+INFO    11:14:28:920   3900; [dns] parsed ip 112.126.76.219
+INFO    11:14:28:920   3900; [dns] parsed ip 47.95.242.6
+INFO    11:14:28:920   3900; [dns] parsed ip 47.95.116.69
+INFO    11:14:28:920   3900; [dns] parsed ip 47.94.215.36
+INFO    11:14:28:920   3900; [dns] parsed ip 47.97.157.160
+INFO    11:14:28:920   3900; [dns] parsed ip 116.62.134.61
+INFO    11:14:28:920   3900; [dns] parsed ip 116.62.127.18
+INFO    11:14:28:920   3900; [dns] parsed ip 101.132.119.238
+INFO    11:14:28:920   3900; [dns] parsed ip 47.95.250.218
+INFO    11:14:28:920   3900; [dns] parsed ip 112.126.76.219
+INFO    11:14:28:920   3900; [ap] onParsedDns with err 0, 47.95.242.6, 47.95.116.69, 47.94.215.36, 47.97.157.160, 116.62.134.61, 116.62.127.18, 101.132.119.238, 47.95.250.218, 112.126.76.219, 
+INFO    11:14:28:920   3900; [dns] parsed ip 183.236.51.231
+INFO    11:14:28:920   3900; [dns] parsed ip 111.62.209.88
+INFO    11:14:28:920   3900; [rs] dns parse result code: 0, servers size: 2
+INFO    11:14:28:920   3900; [rs] updateServers 183.236.51.231:8000, priority 2
+INFO    11:14:28:920   3900; [rs] updateServers 111.62.209.88:8000, priority 2
+INFO    11:14:28:920   3900; [dns] parsed ip 47.96.234.219
+INFO    11:14:28:920   3900; [dns] parsed ip 47.104.164.53
+INFO    11:14:28:920   3900; [dns] parsed ip 47.102.214.104
+INFO    11:14:28:921   3900; [dns] parsed ip 112.126.76.219
+INFO    11:14:28:921   3900; [dns] parsed ip 116.62.134.61
+INFO    11:14:28:921   3900; [dns] parsed ip 47.95.116.69
+INFO    11:14:28:921   3900; [dns] parsed ip 47.97.157.160
+INFO    11:14:28:921   3900; [dns] parsed ip 47.95.242.6
+INFO    11:14:28:921   3900; [dns] parsed ip 101.132.119.238
+INFO    11:14:28:921   3900; [dns] parsed ip 47.95.250.218
+INFO    11:14:28:921   3900; [dns] parsed ip 116.62.127.18
+INFO    11:14:28:921   3900; [dns] parsed ip 47.94.215.36
+INFO    11:14:28:921   3900; [ap/t] tcp connected with 0BD86AD0
+INFO    11:14:28:921   3900; [ap] tcp - creating channel with 3.0.163.78:8000, ts 0, flag: 72
+INFO    11:14:29:014   3900; [ap/u] **responsed from 3.0.163.78:8000, CDS(8).
+INFO    11:14:29:014   3900; [ap] onAPCdsRes success with config: ∏∆êØﬂ‘⁄§ó—˙ œü·íñ≤¬€‹≠∆…‚ÉÖëæ
+INFO    11:14:29:014   3900; [rp-cds] {}
+INFO    11:14:29:014   3900; [cs] applied directly: {"configs":{},"version":"27"}, elapsed: 0
+INFO    11:14:29:017   3900; CacheManager: save cache to storage elapsed 3
+INFO    11:14:29:149   3900; [vocs/t] tcp find vos connected with 04CFECE0
+INFO    11:14:29:149   3900; [vocs] tcp - request vos list.......
+INFO    11:14:29:237   3900; [vocs/u] **responsed from 112.126.96.46:1080, 3 vos refreshed
+INFO    11:14:29:238   3900; [ap/u] **responsed from 3.0.163.78:8000, TDS(64).
+INFO    11:14:29:238   3900; [ap] onAPTdsRes success with config: {}, size: 0
+INFO    11:14:29:241   3900; CacheManager: save cache to storage elapsed 3
+INFO    11:14:29:242   3900; [vocs/u] **responsed from 52.58.56.244:8000, 3 vos refreshed
+INFO    11:14:29:242   3900; [ap/u] **responsed from 47.107.39.93:1080, TDS(64).
+INFO    11:14:29:242   3900; [ap/u] **responsed from 47.107.39.93:1080, CDS(8).
+INFO    11:14:29:242   3900; [ap/u] **responsed from 112.126.96.46:25000, CDS(8).
+INFO    11:14:29:242   3900; [ap/u] **responsed from 112.126.96.46:25000, TDS(64).
+INFO    11:14:29:574   3900; [vocs/u] **responsed from 3.0.163.78:25000, 3 vos refreshed
+Local Date: 7‘¬ 22 2020 Local Time: 11:21:27
+Build info: Jun 17 2020 01:01:43 r
+
+INFO    11:21:27:890   1388; [rp] {"rtc.lastmile_test":true}
+INFO    11:21:27:890   1388; [nettest] last mile test enabled
+INFO    11:21:27:891   1388; [vocs] vocs initialized
+INFO    11:21:27:891   1388; [vocs] selected: 52.58.56.244:8000
+INFO    11:21:27:892   1388; tcp_client connecting 52.58.56.244:8000
+INFO    11:21:27:892   1388; [vocs] request vos list.......
+INFO    11:21:27:892   1388; [vocs] selected: 112.126.96.46:1080
+INFO    11:21:27:892   1388; [vocs] request vos list.......
+INFO    11:21:27:892   1388; [vocs] selected: 3.0.163.78:25000
+INFO    11:21:27:892   1388; [vocs] request vos list.......
+INFO    11:21:27:893   1388; [dns] parsed ip 183.232.231.174
+INFO    11:21:27:893   1388; [dns] parsed ip 183.232.231.172
+INFO    11:21:27:893   1388; [dns] parsed ip 69.171.247.32
+INFO    11:21:27:893   1388; [dns] parsed ip 47.95.250.218
+INFO    11:21:27:893   1388; [dns] parsed ip 47.95.242.6
+INFO    11:21:27:893   1388; [dns] parsed ip 116.62.127.18
+INFO    11:21:27:893   1388; [dns] parsed ip 47.97.157.160
+INFO    11:21:27:893   1388; [dns] parsed ip 47.95.116.69
+INFO    11:21:27:893   1388; [dns] parsed ip 112.126.76.219
+INFO    11:21:27:893   1388; [dns] parsed ip 116.62.134.61
+INFO    11:21:27:893   1388; [dns] parsed ip 101.132.119.238
+INFO    11:21:27:893   1388; [dns] parsed ip 47.94.215.36
+INFO    11:21:27:896   1388; [dns] parsed ip 47.96.234.219
+INFO    11:21:27:896   1388; [dns] parsed ip 47.104.164.53
+INFO    11:21:27:896   1388; [dns] parsed ip 47.102.214.104
+INFO    11:21:27:902   1388; [dns] parsed ip 112.126.76.219
+INFO    11:21:27:902   1388; [dns] parsed ip 47.97.157.160
+INFO    11:21:27:902   1388; [dns] parsed ip 47.94.215.36
+INFO    11:21:27:902   1388; [dns] parsed ip 116.62.134.61
+INFO    11:21:27:902   1388; [dns] parsed ip 116.62.127.18
+INFO    11:21:27:902   1388; [dns] parsed ip 47.95.242.6
+INFO    11:21:27:902   1388; [dns] parsed ip 47.95.250.218
+INFO    11:21:27:902   1388; [dns] parsed ip 47.95.116.69
+INFO    11:21:27:902   1388; [dns] parsed ip 101.132.119.238
+INFO    11:21:27:902   1388; [ap] onParsedDns with err 0, 112.126.76.219, 47.97.157.160, 47.94.215.36, 116.62.134.61, 116.62.127.18, 47.95.242.6, 47.95.250.218, 47.95.116.69, 101.132.119.238, 
+INFO    11:21:27:903   1388; [dns] parsed ip 112.126.76.219
+INFO    11:21:27:903   1388; [dns] parsed ip 47.97.157.160
+INFO    11:21:27:903   1388; [dns] parsed ip 47.94.215.36
+INFO    11:21:27:903   1388; [dns] parsed ip 116.62.134.61
+INFO    11:21:27:903   1388; [dns] parsed ip 116.62.127.18
+INFO    11:21:27:903   1388; [dns] parsed ip 47.95.242.6
+INFO    11:21:27:903   1388; [dns] parsed ip 47.95.250.218
+INFO    11:21:27:903   1388; [dns] parsed ip 47.95.116.69
+INFO    11:21:27:903   1388; [dns] parsed ip 101.132.119.238
+INFO    11:21:27:913   1388; [dns] parsed ip 183.236.51.231
+INFO    11:21:27:913   1388; [dns] parsed ip 111.62.209.88
+INFO    11:21:27:913   1388; [rs] dns parse result code: 0, servers size: 2
+INFO    11:21:27:913   1388; [rs] updateServers 183.236.51.231:8000, priority 2
+INFO    11:21:27:913   1388; [rs] updateServers 111.62.209.88:8000, priority 2
+INFO    11:21:27:929   1388; [dns] parsed ip 47.95.116.69
+INFO    11:21:27:929   1388; [dns] parsed ip 116.62.127.18
+INFO    11:21:27:929   1388; [dns] parsed ip 47.95.242.6
+INFO    11:21:27:929   1388; [dns] parsed ip 47.97.157.160
+INFO    11:21:27:929   1388; [dns] parsed ip 116.62.134.61
+INFO    11:21:27:929   1388; [dns] parsed ip 47.95.250.218
+INFO    11:21:27:929   1388; [dns] parsed ip 112.126.76.219
+INFO    11:21:27:929   1388; [dns] parsed ip 101.132.119.238
+INFO    11:21:27:929   1388; [dns] parsed ip 47.94.215.36
+INFO    11:21:27:930   1388; [ap/u] **responsed from 47.107.39.93:1080, TDS(64).
+INFO    11:21:27:930   1388; [ap] onAPTdsRes success with config: {}, size: 0
+INFO    11:21:27:933   1388; CacheManager: save cache to storage elapsed 3
+INFO    11:21:27:953   1388; [ap/u] **responsed from 112.126.96.46:25000, TDS(64).
+INFO    11:21:28:003   1388; [vocs/u] **responsed from 112.126.96.46:1080, 3 vos refreshed
+INFO    11:21:28:095   2124; API call to create data stream, id = 49153
+INFO    11:21:28:544   1388; [ap/u] **responsed from 3.0.163.78:8000, TDS(64).
+INFO    11:21:28:544   1388; [vocs/u] **responsed from 3.0.163.78:25000, 3 vos refreshed
+INFO    11:21:28:544   1388; [vocs/u] **responsed from 52.58.56.244:8000, 3 vos refreshed
+INFO    11:21:28:652   1388; [rlbs/u] responsed from 3.0.163.78:9700 with servers 183.236.51.231:8913
+INFO    11:21:28:652   1388; [rs] updateServers 183.236.51.231:8913, priority 3
+INFO    11:21:28:653   1388; [rs] updateServers 36.158.249.44:8913, priority 3
+INFO    11:21:28:653   1388; [rs] updateServers 223.111.146.119:8913, priority 3
+Local Date: 7‘¬ 22 2020 Local Time: 11:21:55
+Build info: Jun 17 2020 01:01:43 r
+
+INFO    11:21:55:903  14604; [rp] {"rtc.lastmile_test":true}
+INFO    11:21:55:903  14604; [nettest] last mile test enabled
+INFO    11:21:55:903  14604; [vocs] vocs initialized
+INFO    11:21:55:903  14604; [vocs] selected: 52.58.56.244:8000
+INFO    11:21:55:904  14604; tcp_client connecting 52.58.56.244:8000
+INFO    11:21:55:904  14604; [vocs] request vos list.......
+INFO    11:21:55:904  14604; [vocs] selected: 112.126.96.46:1080
+INFO    11:21:55:904  14604; [vocs] request vos list.......
+INFO    11:21:55:904  14604; [vocs] selected: 3.0.163.78:25000
+INFO    11:21:55:904  14604; [vocs] request vos list.......
+INFO    11:21:55:904  14604; [dns] parsed ip 183.232.231.174
+INFO    11:21:55:904  14604; [dns] parsed ip 183.232.231.172
+INFO    11:21:55:904  14604; [dns] parsed ip 47.95.250.218
+INFO    11:21:55:904  14604; [dns] parsed ip 47.95.242.6
+INFO    11:21:55:904  14604; [dns] parsed ip 116.62.127.18
+INFO    11:21:55:904  14604; [dns] parsed ip 47.97.157.160
+INFO    11:21:55:904  14604; [dns] parsed ip 47.95.116.69
+INFO    11:21:55:904  14604; [dns] parsed ip 112.126.76.219
+INFO    11:21:55:904  14604; [dns] parsed ip 116.62.134.61
+INFO    11:21:55:904  14604; [dns] parsed ip 101.132.119.238
+INFO    11:21:55:904  14604; [dns] parsed ip 47.94.215.36
+INFO    11:21:55:904  14604; [dns] parsed ip 69.171.247.32
+INFO    11:21:55:904  14604; [dns] parsed ip 112.126.76.219
+INFO    11:21:55:904  14604; [dns] parsed ip 47.97.157.160
+INFO    11:21:55:904  14604; [dns] parsed ip 47.94.215.36
+INFO    11:21:55:904  14604; [dns] parsed ip 116.62.134.61
+INFO    11:21:55:904  14604; [dns] parsed ip 116.62.127.18
+INFO    11:21:55:904  14604; [dns] parsed ip 47.95.242.6
+INFO    11:21:55:904  14604; [dns] parsed ip 47.95.250.218
+INFO    11:21:55:904  14604; [dns] parsed ip 47.95.116.69
+INFO    11:21:55:905  14604; [dns] parsed ip 101.132.119.238
+INFO    11:21:55:905  14604; [dns] parsed ip 183.236.51.231
+INFO    11:21:55:905  14604; [dns] parsed ip 111.62.209.88
+INFO    11:21:55:905  14604; [rs] dns parse result code: 0, servers size: 2
+INFO    11:21:55:905  14604; [rs] updateServers 183.236.51.231:8000, priority 2
+INFO    11:21:55:905  14604; [rs] updateServers 111.62.209.88:8000, priority 2
+INFO    11:21:55:905  14604; [dns] parsed ip 112.126.76.219
+INFO    11:21:55:905  14604; [dns] parsed ip 47.97.157.160
+INFO    11:21:55:905  14604; [dns] parsed ip 47.94.215.36
+INFO    11:21:55:905  14604; [dns] parsed ip 116.62.134.61
+INFO    11:21:55:905  14604; [dns] parsed ip 116.62.127.18
+INFO    11:21:55:905  14604; [dns] parsed ip 47.95.242.6
+INFO    11:21:55:905  14604; [dns] parsed ip 47.95.250.218
+INFO    11:21:55:905  14604; [dns] parsed ip 47.95.116.69
+INFO    11:21:55:905  14604; [dns] parsed ip 101.132.119.238
+INFO    11:21:55:905  14604; [ap] onParsedDns with err 0, 112.126.76.219, 47.97.157.160, 47.94.215.36, 116.62.134.61, 116.62.127.18, 47.95.242.6, 47.95.250.218, 47.95.116.69, 101.132.119.238, 
+INFO    11:21:55:906  14604; [dns] parsed ip 47.95.116.69
+INFO    11:21:55:906  14604; [dns] parsed ip 116.62.127.18
+INFO    11:21:55:906  14604; [dns] parsed ip 47.95.242.6
+INFO    11:21:55:906  14604; [dns] parsed ip 47.97.157.160
+INFO    11:21:55:906  14604; [dns] parsed ip 116.62.134.61
+INFO    11:21:55:906  14604; [dns] parsed ip 47.95.250.218
+INFO    11:21:55:906  14604; [dns] parsed ip 112.126.76.219
+INFO    11:21:55:906  14604; [dns] parsed ip 101.132.119.238
+INFO    11:21:55:906  14604; [dns] parsed ip 47.94.215.36
+INFO    11:21:55:907  14604; [dns] parsed ip 47.96.234.219
+INFO    11:21:55:907  14604; [dns] parsed ip 47.104.164.53
+INFO    11:21:55:907  14604; [dns] parsed ip 47.102.214.104
+INFO    11:21:55:924  14604; [ap/u] **responsed from 47.107.39.93:1080, TDS(64).
+INFO    11:21:55:924  14604; [ap] onAPTdsRes success with config: {}, size: 0
+INFO    11:21:55:927  14604; CacheManager: save cache to storage elapsed 3
+INFO    11:21:55:954  14604; [ap/u] **responsed from 112.126.96.46:25000, TDS(64).
+INFO    11:21:55:973  14604; [vocs/u] **responsed from 112.126.96.46:1080, 3 vos refreshed
+INFO    11:21:56:022  10016; API call to create data stream, id = 49153
+INFO    11:21:56:151  14604; [ap/u] **responsed from 3.0.163.78:8000, TDS(64).
+INFO    11:21:56:282  14604; [vocs/u] **responsed from 3.0.163.78:25000, 3 vos refreshed
+INFO    11:21:56:334  14604; [vocs/u] **responsed from 52.58.56.244:8000, 3 vos refreshed
+INFO    11:21:57:319  14604; [rlbs/u] responsed from 3.0.163.78:9700 with servers 120.220.48.7:8913
+INFO    11:21:57:319  14604; [rs] updateServers 120.220.48.7:8913, priority 3
+INFO    11:21:57:319  14604; [rs] updateServers 112.25.33.229:8913, priority 3
+INFO    11:21:57:319  14604; [rs] updateServers 183.201.215.134:8913, priority 3
+INFO    11:21:59:368  14604; [rp] ["rtc.addref_media_engine"]
+INFO    11:21:59:368  14604; addRef of media engine, ref=1
+INFO    11:21:59:368  14604; [che] create chat engine, ctx:00000000
+INFO    11:21:59:368  14604; [MYDEBUG] large group call false
+INFO    11:21:59:368  14604; setupMediaEngineMode(): Hardware decoding false
+INFO    11:21:59:368  14604; agora::media::MediaEngineParameterCollection::setupMediaEngineMode: mode 2
+WARN    11:21:59:368  14604; agora::media::MediaEngineParameterCollection::setupMediaEngineMode: skip updateClientRole as audio engine not created, mode 2
+INFO    11:21:59:369  14604; engine git commit version:08c5403bdf and branch:release/3.0.1.1
+INFO    11:21:59:387  14604; output: kPlatformDefaultAudio
+INFO    11:21:59:388  14604; [WIN_CORE] +++++++Code block begins for checking CoreAudio properties++++++
+INFO    11:21:59:394  14604; AgoraRTC::AudioDeviceNotificationWindows::AudioDeviceNotificationWindows created
+INFO    11:21:59:437  14604; [WIN_CORE] *** Windows Core Audio is supported ***
+INFO    11:21:59:437  14604; [WIN_CORE] ++++++++Code block ends for checking CoreAudio properties++++++++
+INFO    11:21:59:438  14604; audio jitterbuffer new smooth
+INFO    11:21:59:439  14604; OutputMixer: start audio file decoder thread successfully
+INFO    11:21:59:439  14604;   OS info: Microsoft  (build 9200), 64-bit
+INFO    11:21:59:457  14604; [WIN_CORE] Set playout device on Windows by Windows Device Type (-2): friendly name: "Êâ¨Â£∞Âô® (HECATE GS02 GAMING SOUND CARD)"
+INFO    11:21:59:546  14604; [WIN_CORE] Set recording device on Windows by Windows Device Type (-2): friendly name: "È∫¶ÂÖãÈ£é (HECATE GS02 GAMING SOUND CARD)"
+INFO    11:21:59:569  14604; MicrophoneLevelBoostStat Level range, maxLvl = 23.000000 (dB), minLvl = -12.000000 (dB)
+INFO    11:21:59:570  14604; StereoPlayoutIsAvailable(), output: available=1
+INFO    11:21:59:570  14604; StereoRecordingIsAvailable(), output: available=1
+INFO    11:21:59:570  14604; RegisterVolumeNotify
+WARN    11:21:59:570  14604; agora::media::AudioEngineWrapper::enableLocalRecordingDevice: enable 1 already set
+INFO    11:21:59:570  14604; setMuteStatus, muted: Off
+INFO    11:21:59:570  14604; setMuteOutput, muted: false
+INFO    11:21:59:570  14604; Audio Engine Init success, mSpecMode 2
+INFO    11:21:59:570  14604; Available number of cores:4
+INFO    11:21:59:571  14604; PipelineManager::SetVideoEngineRef: VideoEngineRef = 0x19000f
+INFO    11:21:59:572  14604; agora::media::VideoEngine::CreateVideoSendTrack
+INFO    11:21:59:572  14604; agora::media::VideoEngine::init: feature prerotation enabled
+ERROR   11:21:59:606  14604; agora::media::VideoEngine::captureIdFromIndex: failed to get device id for device 0
+WARN    11:21:59:606  14604; Camera index 0 is invalid! Use first camera AgoraCapInvalid instead
+INFO    11:21:59:606  14604; Agora Engine video codec set to standard mode role mode 2
+INFO    11:21:59:606  14604; Agora Engine video codec index 1
+INFO    11:21:59:606  14604; Agora Engine video stream type = 0
+INFO    11:21:59:608  14604; Device type: 0
+INFO    11:21:59:608  14604; Hardware encoding false
+INFO    11:21:59:608  14604; last unique frame idx: -1 - -1
+INFO    11:21:59:608  14604; Device type: 0
+INFO    11:21:59:608  14604; EncoderWrapper::Create hardware_ = 0, hardware_low_ = 0
+INFO    11:21:59:608  14604; low bit rate limit 3758096384
+INFO    11:21:59:608  14604; dont need to increase unique frame idx
+INFO    11:21:59:608  14604; the init unique frame idx: -1 - -1
+INFO    11:21:59:608  14604; agora::media::VideoEngine::setCodec: index=1 width=640 height=360 framerate=15
+INFO    11:21:59:608  14604; agora::media::VideoEngine::setCodec: Intra Request = 0
+INFO    11:21:59:608  14604; Device type: 0
+INFO    11:21:59:608  14604; Hardware encoding false
+INFO    11:21:59:608  14604; last unique frame idx: -1 - -1
+INFO    11:21:59:609  14604; Device type: 0
+INFO    11:21:59:609  14604; EncoderWrapper::Create hardware_ = 0, hardware_low_ = 0
+INFO    11:21:59:609  14604; low bit rate limit 3758096384
+INFO    11:21:59:609  14604; set last big unique frame idx: -1
+INFO    11:21:59:609  14604; set last small unique frame idx: -1
+INFO    11:21:59:609  14604; the init unique frame idx: -1 - -1
+INFO    11:21:59:609  14604; agora::media::VideoEngine::h264WebInteropEnable: enable 0
+INFO    11:21:59:609  14604; agora::media::VideoEngine::setCaptureDevice: index=0
+ERROR   11:21:59:609  14604; agora::media::VideoEngine::captureIdFromIndex: failed to get device id for device 0
+INFO    11:21:59:609  14604; agora::media::VideoEngine::setMaxVideoBitrate: max bitrate=0
+INFO    11:21:59:609  14604; [setupParameterObservers:1576] setting of localViewMirrorSetting[] is invalid!
+INFO    11:21:59:609  14604; [agora::media::VideoEngine::setupParameterObservers::<lambda_d7208bc3fd43894e147edef560e39bc6>::operator ():1588] m_context.parameters.video.renderMode: json is invalid! value:00000000
+INFO    11:21:59:609  14604; [agora::media::VideoEngine::setupParameterObservers::<lambda_b9178a4bf4ebc73fe64ee1090fe32305>::operator ():1634] m_context.parameters.video.mirrorMode: json is invalid! value:00000000
+INFO    11:21:59:609  14604; Setting video fec method 2, real using 2
+INFO    11:21:59:609  14604; SetBandwidthAgressiveLevel to 3.
+INFO    11:21:59:609  14604; dynamic sending rate control set to 2.
+
+INFO    11:21:59:609  14604; videoEngine created and initialize here
+INFO    11:21:59:609  14604; agora::media::VideoEngine::CreateVideoSendTrack
+INFO    11:21:59:609  14604; [MIO] updateCapturer: (00000000), type:(1)
+INFO    11:21:59:609  14604; agora::media::VideoEngine::CreateAgoraDefaultCapture: type=0
+INFO    11:21:59:609  14604; VideoSendTrackImpl::agora::VideoSendTrackImpl::UpdateCapturer capturer=07418768
+INFO    11:21:59:609  14604; agora::media::VideoEngine::CreateVideoCapturer: interface=07418768
+INFO    11:21:59:609  14604; [MIO] updateLocalRender: (00000000), type:(1)
+INFO    11:21:59:609  14604; agora::media::VideoEngine::CreateAgoraDefaultRender
+INFO    11:21:59:609  14604; VideoSendTrackImpl::agora::VideoSendTrackImpl::UpdateRenderer, renderer=074AEA20
+INFO    11:21:59:609  14604; agora::media::VideoEngine::CreateVideoRenderer: interface=074AEA20
+INFO    11:21:59:609  14604; [MIO] video send track prepared !!
+ERROR   11:21:59:609  14604; agora::media::VideoEngine::captureIndexFromDeviceId: failed to get device index for device AgoraCapInvalid
+INFO    11:21:59:609  14604; VideoSendTrackImpl::agora::VideoSendTrackImpl::UpdateCapturer capturer=07418768
+WARN    11:21:59:609  14604; VideoSendTrackImpl::agora::VideoSendTrackImpl::UpdateCapturer, Ignore updating the same capturer
+INFO    11:21:59:609  14604; [che] applyVideoProfile: 640x360 15 fps  -1 minFps 400 kbps, min -1 kbps orientationMode 0 degradationPrefer 0 mirrorMode 0
+ERROR   11:21:59:609  14604; agora::media::VideoEngine::captureIndexFromDeviceId: failed to get device index for device AgoraCapInvalid
+INFO    11:21:59:609  14604; agora::media::VideoEngine::validateVideoParameters: validate video parameters resolution 640x360, fps 15, rate 400000
+INFO    11:21:59:609  14604; agora::media::VideoEngine::enableMirrorMode: enable=0
+INFO    11:21:59:609  14604; agora::media::VideoEngine::setMaxVideoBitrate: max bitrate=400000
+INFO    11:21:59:609  14604; agora::media::VideoEngine::setCodecRates: set frame rate to 15
+INFO    11:21:59:609  14604; agora::media::VideoEngine::setCodec: index=1 width=640 height=360 framerate=15
+INFO    11:21:59:609  14604; agora::media::VideoEngine::setCodec: Intra Request = 0
+INFO    11:21:59:609  14604; Device type: 0
+INFO    11:21:59:609  14604; Hardware encoding false
+INFO    11:21:59:609  14604; last unique frame idx: -1 - -1
+INFO    11:21:59:609  14604; Device type: 0
+INFO    11:21:59:609  14604; EncoderWrapper::Create hardware_ = 0, hardware_low_ = 0
+INFO    11:21:59:609  14604; low bit rate limit 0
+INFO    11:21:59:609  14604; set last big unique frame idx: -1
+INFO    11:21:59:609  14604; set last small unique frame idx: -1
+INFO    11:21:59:609  14604; the init unique frame idx: -1 - -1
+INFO    11:21:59:609  14604; SetTargetWidthHeight width:640, height:360
+INFO    11:21:59:609  14604; agora::media::VideoEngine::setCodecResolution: set to 640 x 360
+INFO    11:21:59:609  14604; Set broadcast min br to -1.
+INFO    11:21:59:610  14604; [che] chat engine initialized
+INFO    11:21:59:610  14604; [time] process EngineInitialize takes 241
+INFO    11:21:59:705  14604; [rp] res: {"rtc.addref_media_engine":0} 
+INFO    11:21:59:705  14604; [rp] ["che.audio.enum_playback"]
+INFO    11:21:59:759  14604; [WIN_CORE] before==============
+INFO    11:21:59:759  14604; [WIN_CORE] before==============
+INFO    11:21:59:759  14604; [WIN_CORE] RecordDevice:HECATE GS02 GAMING SOUND CARD
+INFO    11:21:59:759  14604; [WIN_CORE] RecordDevice:{0.0.1.00000000}.{97538f2f-f2f2-4b66-adc9-c37e6f231c7b}
+INFO    11:21:59:759  14604; [WIN_CORE] RecordDevice:defaultDevice 1 index 0 partner 1 partnerCnt 1 usbDevice 1 invald 0
+INFO    11:21:59:759  14604; [WIN_CORE] ==============
+INFO    11:21:59:759  14604; [WIN_CORE] HECATE GS02 GAMING SOUND CARD
+INFO    11:21:59:759  14604; [WIN_CORE] {0.0.0.00000000}.{53c9518f-c88e-4c5b-b8c3-0299c9a8f317}
+INFO    11:21:59:759  14604; [WIN_CORE] defaultDevice 1 index 0 partner 1 partnerCnt 1 usbDevice 0 invald 0
+INFO    11:21:59:759  14604; [WIN_CORE] ==============
+INFO    11:21:59:759  14604; [WIN_CORE] 4- Realtek High Definition Audio
+INFO    11:21:59:759  14604; [WIN_CORE] {0.0.0.00000000}.{9d95c9e5-a4af-44e2-87c9-28cca162e83c}
+INFO    11:21:59:759  14604; [WIN_CORE] defaultDevice 0 index 1 partner 0 partnerCnt 0 usbDevice 0 invald 0
+INFO    11:21:59:759  14604; [WIN_CORE] ==============
+INFO    11:21:59:759  14604; [WIN_CORE] enumDeviceName partnerDeviceCnt 1 usbPartnerCnt 1 defaultPartnerCnt1
+INFO    11:21:59:759  14604; [WIN_CORE] after==============
+INFO    11:21:59:759  14604; [WIN_CORE] after==============
+INFO    11:21:59:759  14604; [WIN_CORE] RecordDevice:HECATE GS02 GAMING SOUND CARD
+INFO    11:21:59:759  14604; [WIN_CORE] RecordDevice:{0.0.1.00000000}.{97538f2f-f2f2-4b66-adc9-c37e6f231c7b}
+INFO    11:21:59:759  14604; [WIN_CORE] RecordDevice:defaultDevice 1 index 0 partner 1 partnerCnt 1 usbDevice 1
+INFO    11:21:59:759  14604; [WIN_CORE] ==============
+INFO    11:21:59:759  14604; [WIN_CORE] HECATE GS02 GAMING SOUND CARD
+INFO    11:21:59:759  14604; [WIN_CORE] {0.0.0.00000000}.{53c9518f-c88e-4c5b-b8c3-0299c9a8f317}
+INFO    11:21:59:759  14604; [WIN_CORE] defaultDevice 1 index 0 partner 1 partnerCnt 1 usbDevice 0
+INFO    11:21:59:759  14604; [WIN_CORE] ==============
+INFO    11:21:59:759  14604; [WIN_CORE] 4- Realtek High Definition Audio
+INFO    11:21:59:759  14604; [WIN_CORE] {0.0.0.00000000}.{9d95c9e5-a4af-44e2-87c9-28cca162e83c}
+INFO    11:21:59:759  14604; [WIN_CORE] defaultDevice 0 index 1 partner 0 partnerCnt 0 usbDevice 0
+INFO    11:21:59:759  14604; [WIN_CORE] ==============
+INFO    11:21:59:759  14604; [WIN_CORE] PlayoutDeviceName:Êâ¨Â£∞Âô® (HECATE GS02 GAMING SOUND CARD)(default)
+INFO    11:21:59:759  14604; [WIN_CORE] PlayoutDeviceName:{0.0.0.00000000}.{53c9518f-c88e-4c5b-b8c3-0299c9a8f317}
+INFO    11:21:59:759  14604; [WIN_CORE] PlayoutDeviceName:Realtek Digital Output (4- Realtek High Definition Audio)
+INFO    11:21:59:759  14604; [WIN_CORE] PlayoutDeviceName:{0.0.0.00000000}.{9d95c9e5-a4af-44e2-87c9-28cca162e83c}
+INFO    11:21:59:759  14604; [rp] res: {"che.audio.enum_playback":[[0,"{0.0.0.00000000}.{53c9518f-c88e-4c5b-b8c3-0299c9a8f317}","Êâ¨Â£∞Âô® (HECATE GS02 GAMING SOUND CARD)(default)"],[1,"{0.0.0.00000000}.{9d95c9e5-a4af-44e2-87c9-28cca162e83c}","Realtek Di
+INFO    11:21:59:760  14604; [rp] ["rtc.addref_media_engine"]
+INFO    11:21:59:760  14604; addRef of media engine, ref=2
+INFO    11:21:59:760  14604; [rp] res: {"rtc.addref_media_engine":0} 
+INFO    11:21:59:760  14604; [rp] ["che.audio.enum_recording"]
+INFO    11:21:59:782  14604; [WIN_CORE] RecordingDeviceName:È∫¶ÂÖãÈ£é (HECATE GS02 GAMING SOUND CARD)(default)
+INFO    11:21:59:782  14604; [WIN_CORE] RecordingDeviceName:{0.0.1.00000000}.{97538f2f-f2f2-4b66-adc9-c37e6f231c7b}
+INFO    11:21:59:783  14604; [rp] res: {"che.audio.enum_recording":[[0,"{0.0.1.00000000}.{97538f2f-f2f2-4b66-adc9-c37e6f231c7b}","È∫¶ÂÖãÈ£é (HECATE GS02 GAMING SOUND CARD)(default)"]]} 
+INFO    11:21:59:783  14604; [rp] ["rtc.addref_media_engine"]
+INFO    11:21:59:783  14604; addRef of media engine, ref=3
+INFO    11:21:59:783  14604; [rp] res: {"rtc.addref_media_engine":0} 
+INFO    11:21:59:783  14604; [rp] ["che.video.local.enum_camera"]
+INFO    11:21:59:783  14604; [rp] res: {} 
+INFO    11:21:59:783  14604; [rp] ["rtc.delref_media_engine"]
+INFO    11:21:59:783  14604; delRef of media engine, ref=2
+INFO    11:21:59:783  14604; [rp] res: {"rtc.delref_media_engine":0} 
+INFO    11:21:59:783  14604; [rp] ["che.audio.output.volume"]
+INFO    11:21:59:783  14604; output: volume=180
+INFO    11:21:59:783  14604; [rp] res: {"che.audio.output.volume":180} 
+INFO    11:21:59:783  14604; [rp] ["che.audio.input.volume"]
+INFO    11:21:59:783  14604; [rp] res: {"che.audio.input.volume":165} 
+INFO    11:21:59:783  14604; [rp] ["che.audio.get_playback_device"]
+INFO    11:21:59:783  14604; [rp] res: {"che.audio.get_playback_device":"{0.0.0.00000000}.{53c9518f-c88e-4c5b-b8c3-0299c9a8f317}"} 
+INFO    11:21:59:784  14604; [rp] ["che.audio.get_recording_device"]
+INFO    11:21:59:784  14604; [rp] res: {"che.audio.get_recording_device":"{0.0.1.00000000}.{97538f2f-f2f2-4b66-adc9-c37e6f231c7b}"} 
+INFO    11:22:00:892  14604; [rs] **report stats: seq: 11, report list size 0, tx/rx: 1397/528, cache size: 0
+INFO    11:22:00:892  14604; [rs] report server1: 120.220.48.7:8913
+Local Date: 7‘¬ 22 2020 Local Time: 11:22:31
+Build info: Jun 17 2020 01:01:43 r
+
+INFO    11:22:31:681  11988; [rp] {"rtc.lastmile_test":true}
+INFO    11:22:31:681  11988; [nettest] last mile test enabled
+INFO    11:22:31:682  11988; [vocs] vocs initialized
+INFO    11:22:31:682  11988; [vocs] selected: 52.58.56.244:8000
+INFO    11:22:31:683  11988; tcp_client connecting 52.58.56.244:8000
+INFO    11:22:31:683  11988; [vocs] request vos list.......
+INFO    11:22:31:683  11988; [vocs] selected: 112.126.96.46:1080
+INFO    11:22:31:683  11988; [vocs] request vos list.......
+INFO    11:22:31:683  11988; [vocs] selected: 3.0.163.78:25000
+INFO    11:22:31:683  11988; [vocs] request vos list.......
+INFO    11:22:31:684  11988; [dns] parsed ip 47.94.215.36
+INFO    11:22:31:684  11988; [dns] parsed ip 47.97.157.160
+INFO    11:22:31:684  11988; [dns] parsed ip 47.95.116.69
+INFO    11:22:31:684  11988; [dns] parsed ip 112.126.76.219
+INFO    11:22:31:684  11988; [dns] parsed ip 116.62.134.61
+INFO    11:22:31:684  11988; [dns] parsed ip 101.132.119.238
+INFO    11:22:31:684  11988; [dns] parsed ip 47.95.242.6
+INFO    11:22:31:684  11988; [dns] parsed ip 116.62.127.18
+INFO    11:22:31:684  11988; [dns] parsed ip 47.95.250.218
+INFO    11:22:31:684  11988; [dns] parsed ip 69.171.247.32
+INFO    11:22:31:684  11988; [dns] parsed ip 183.232.231.174
+INFO    11:22:31:684  11988; [dns] parsed ip 183.232.231.172
+INFO    11:22:31:684  11988; [dns] parsed ip 183.236.51.231
+INFO    11:22:31:684  11988; [dns] parsed ip 111.62.209.88
+INFO    11:22:31:684  11988; [rs] dns parse result code: 0, servers size: 2
+INFO    11:22:31:684  11988; [rs] updateServers 183.236.51.231:8000, priority 2
+INFO    11:22:31:684  11988; [rs] updateServers 111.62.209.88:8000, priority 2
+INFO    11:22:31:684  11988; [dns] parsed ip 47.96.234.219
+INFO    11:22:31:684  11988; [dns] parsed ip 47.104.164.53
+INFO    11:22:31:684  11988; [dns] parsed ip 47.102.214.104
+INFO    11:22:31:685  11988; [dns] parsed ip 112.126.76.219
+INFO    11:22:31:685  11988; [dns] parsed ip 47.94.215.36
+INFO    11:22:31:685  11988; [dns] parsed ip 47.97.157.160
+INFO    11:22:31:685  11988; [dns] parsed ip 47.95.250.218
+INFO    11:22:31:685  11988; [dns] parsed ip 47.95.116.69
+INFO    11:22:31:685  11988; [dns] parsed ip 116.62.134.61
+INFO    11:22:31:685  11988; [dns] parsed ip 101.132.119.238
+INFO    11:22:31:685  11988; [dns] parsed ip 116.62.127.18
+INFO    11:22:31:685  11988; [dns] parsed ip 47.95.242.6
+INFO    11:22:31:686  11988; [dns] parsed ip 112.126.76.219
+INFO    11:22:31:686  11988; [dns] parsed ip 47.94.215.36
+INFO    11:22:31:686  11988; [dns] parsed ip 47.97.157.160
+INFO    11:22:31:686  11988; [dns] parsed ip 47.95.250.218
+INFO    11:22:31:686  11988; [dns] parsed ip 47.95.116.69
+INFO    11:22:31:686  11988; [dns] parsed ip 116.62.134.61
+INFO    11:22:31:686  11988; [dns] parsed ip 101.132.119.238
+INFO    11:22:31:686  11988; [dns] parsed ip 116.62.127.18
+INFO    11:22:31:686  11988; [dns] parsed ip 47.95.242.6
+INFO    11:22:31:686  11988; [ap] onParsedDns with err 0, 112.126.76.219, 47.94.215.36, 47.97.157.160, 47.95.250.218, 47.95.116.69, 116.62.134.61, 101.132.119.238, 116.62.127.18, 47.95.242.6, 
+INFO    11:22:31:698  11988; [dns] parsed ip 47.95.116.69
+INFO    11:22:31:698  11988; [dns] parsed ip 116.62.127.18
+INFO    11:22:31:698  11988; [dns] parsed ip 101.132.119.238
+INFO    11:22:31:698  11988; [dns] parsed ip 47.97.157.160
+INFO    11:22:31:698  11988; [dns] parsed ip 112.126.76.219
+INFO    11:22:31:698  11988; [dns] parsed ip 47.94.215.36
+INFO    11:22:31:698  11988; [dns] parsed ip 116.62.134.61
+INFO    11:22:31:698  11988; [dns] parsed ip 47.95.242.6
+INFO    11:22:31:698  11988; [dns] parsed ip 47.95.250.218
+INFO    11:22:31:706  11988; [ap/u] **responsed from 47.107.39.93:1080, TDS(64).
+INFO    11:22:31:706  11988; [ap] onAPTdsRes success with config: {}, size: 0
+INFO    11:22:31:710  11988; CacheManager: save cache to storage elapsed 4
+INFO    11:22:31:737  11988; [ap/u] **responsed from 112.126.96.46:25000, TDS(64).
+INFO    11:22:31:781  11988; [vocs/u] **responsed from 112.126.96.46:1080, 3 vos refreshed
+INFO    11:22:31:833  15492; API call to create data stream, id = 49153
+INFO    11:22:31:932  11988; [ap/u] **responsed from 3.0.163.78:8000, TDS(64).
+INFO    11:22:32:053  11988; [vocs/u] **responsed from 3.0.163.78:25000, 3 vos refreshed
+INFO    11:22:32:114  11988; [vocs/u] **responsed from 52.58.56.244:8000, 3 vos refreshed
+INFO    11:22:32:176  11988; [rlbs/u] responsed from 3.0.163.78:9700 with servers 183.201.231.240:8913
+INFO    11:22:32:176  11988; [rs] updateServers 183.201.231.240:8913, priority 3
+INFO    11:22:32:176  11988; [rs] updateServers 120.221.187.167:8913, priority 3
+INFO    11:22:32:176  11988; [rs] updateServers 111.62.9.165:8913, priority 3
+INFO    11:22:36:670  11988; [rs] **report stats: seq: 10, report list size 0, tx/rx: 1282/480, cache size: 0
+INFO    11:22:36:670  11988; [rs] report server1: 183.201.231.240:8913
+INFO    11:22:44:136  11988; [rp] ["rtc.addref_media_engine"]
+INFO    11:22:44:136  11988; addRef of media engine, ref=1
+INFO    11:22:44:136  11988; [che] create chat engine, ctx:00000000
+INFO    11:22:44:136  11988; [MYDEBUG] large group call false
+INFO    11:22:44:137  11988; setupMediaEngineMode(): Hardware decoding false
+INFO    11:22:44:137  11988; agora::media::MediaEngineParameterCollection::setupMediaEngineMode: mode 2
+WARN    11:22:44:137  11988; agora::media::MediaEngineParameterCollection::setupMediaEngineMode: skip updateClientRole as audio engine not created, mode 2
+INFO    11:22:44:137  11988; engine git commit version:08c5403bdf and branch:release/3.0.1.1
+INFO    11:22:44:143  11988; output: kPlatformDefaultAudio
+INFO    11:22:44:143  11988; [WIN_CORE] +++++++Code block begins for checking CoreAudio properties++++++
+INFO    11:22:44:149  11988; AgoraRTC::AudioDeviceNotificationWindows::AudioDeviceNotificationWindows created
+INFO    11:22:44:188  11988; [WIN_CORE] *** Windows Core Audio is supported ***
+INFO    11:22:44:188  11988; [WIN_CORE] ++++++++Code block ends for checking CoreAudio properties++++++++
+INFO    11:22:44:189  11988; audio jitterbuffer new smooth
+INFO    11:22:44:189  11988; OutputMixer: start audio file decoder thread successfully
+INFO    11:22:44:189  11988;   OS info: Microsoft  (build 9200), 64-bit
+INFO    11:22:44:206  11988; [WIN_CORE] Set playout device on Windows by Windows Device Type (-2): friendly name: "Êâ¨Â£∞Âô® (HECATE GS02 GAMING SOUND CARD)"
+INFO    11:22:44:285  11988; [WIN_CORE] Set recording device on Windows by Windows Device Type (-2): friendly name: "È∫¶ÂÖãÈ£é (HECATE GS02 GAMING SOUND CARD)"
+INFO    11:22:44:308  11988; MicrophoneLevelBoostStat Level range, maxLvl = 23.000000 (dB), minLvl = -12.000000 (dB)
+INFO    11:22:44:308  11988; StereoPlayoutIsAvailable(), output: available=1
+INFO    11:22:44:308  11988; StereoRecordingIsAvailable(), output: available=1
+INFO    11:22:44:308  11988; RegisterVolumeNotify
+WARN    11:22:44:308  11988; agora::media::AudioEngineWrapper::enableLocalRecordingDevice: enable 1 already set
+INFO    11:22:44:308  11988; setMuteStatus, muted: Off
+INFO    11:22:44:308  11988; setMuteOutput, muted: false
+INFO    11:22:44:308  11988; Audio Engine Init success, mSpecMode 2
+INFO    11:22:44:308  11988; Available number of cores:4
+INFO    11:22:44:309  11988; PipelineManager::SetVideoEngineRef: VideoEngineRef = 0x19000f
+INFO    11:22:44:309  11988; agora::media::VideoEngine::CreateVideoSendTrack
+INFO    11:22:44:309  11988; agora::media::VideoEngine::init: feature prerotation enabled
+ERROR   11:22:44:342  11988; agora::media::VideoEngine::captureIdFromIndex: failed to get device id for device 0
+WARN    11:22:44:342  11988; Camera index 0 is invalid! Use first camera AgoraCapInvalid instead
+INFO    11:22:44:342  11988; Agora Engine video codec set to standard mode role mode 2
+INFO    11:22:44:342  11988; Agora Engine video codec index 1
+INFO    11:22:44:342  11988; Agora Engine video stream type = 0
+INFO    11:22:44:344  11988; Device type: 0
+INFO    11:22:44:344  11988; Hardware encoding false
+INFO    11:22:44:344  11988; last unique frame idx: -1 - -1
+INFO    11:22:44:344  11988; Device type: 0
+INFO    11:22:44:344  11988; EncoderWrapper::Create hardware_ = 0, hardware_low_ = 0
+INFO    11:22:44:344  11988; low bit rate limit 3758096384
+INFO    11:22:44:344  11988; dont need to increase unique frame idx
+INFO    11:22:44:344  11988; the init unique frame idx: -1 - -1
+INFO    11:22:44:344  11988; agora::media::VideoEngine::setCodec: index=1 width=640 height=360 framerate=15
+INFO    11:22:44:344  11988; agora::media::VideoEngine::setCodec: Intra Request = 0
+INFO    11:22:44:344  11988; Device type: 0
+INFO    11:22:44:344  11988; Hardware encoding false
+INFO    11:22:44:344  11988; last unique frame idx: -1 - -1
+INFO    11:22:44:344  11988; Device type: 0
+INFO    11:22:44:344  11988; EncoderWrapper::Create hardware_ = 0, hardware_low_ = 0
+INFO    11:22:44:344  11988; low bit rate limit 3758096384
+INFO    11:22:44:344  11988; set last big unique frame idx: -1
+INFO    11:22:44:344  11988; set last small unique frame idx: -1
+INFO    11:22:44:344  11988; the init unique frame idx: -1 - -1
+INFO    11:22:44:344  11988; agora::media::VideoEngine::h264WebInteropEnable: enable 0
+INFO    11:22:44:344  11988; agora::media::VideoEngine::setCaptureDevice: index=0
+ERROR   11:22:44:344  11988; agora::media::VideoEngine::captureIdFromIndex: failed to get device id for device 0
+INFO    11:22:44:344  11988; agora::media::VideoEngine::setMaxVideoBitrate: max bitrate=0
+INFO    11:22:44:344  11988; [setupParameterObservers:1576] setting of localViewMirrorSetting[] is invalid!
+INFO    11:22:44:344  11988; [agora::media::VideoEngine::setupParameterObservers::<lambda_d7208bc3fd43894e147edef560e39bc6>::operator ():1588] m_context.parameters.video.renderMode: json is invalid! value:00000000
+INFO    11:22:44:344  11988; [agora::media::VideoEngine::setupParameterObservers::<lambda_b9178a4bf4ebc73fe64ee1090fe32305>::operator ():1634] m_context.parameters.video.mirrorMode: json is invalid! value:00000000
+INFO    11:22:44:344  11988; Setting video fec method 2, real using 2
+INFO    11:22:44:345  11988; SetBandwidthAgressiveLevel to 3.
+INFO    11:22:44:345  11988; dynamic sending rate control set to 2.
+
+INFO    11:22:44:345  11988; videoEngine created and initialize here
+INFO    11:22:44:345  11988; agora::media::VideoEngine::CreateVideoSendTrack
+INFO    11:22:44:345  11988; [MIO] updateCapturer: (00000000), type:(1)
+INFO    11:22:44:345  11988; agora::media::VideoEngine::CreateAgoraDefaultCapture: type=0
+INFO    11:22:44:345  11988; VideoSendTrackImpl::agora::VideoSendTrackImpl::UpdateCapturer capturer=075039C8
+INFO    11:22:44:345  11988; agora::media::VideoEngine::CreateVideoCapturer: interface=075039C8
+INFO    11:22:44:345  11988; [MIO] updateLocalRender: (00000000), type:(1)
+INFO    11:22:44:345  11988; agora::media::VideoEngine::CreateAgoraDefaultRender
+INFO    11:22:44:345  11988; VideoSendTrackImpl::agora::VideoSendTrackImpl::UpdateRenderer, renderer=07513D90
+INFO    11:22:44:345  11988; agora::media::VideoEngine::CreateVideoRenderer: interface=07513D90
+INFO    11:22:44:345  11988; [MIO] video send track prepared !!
+ERROR   11:22:44:345  11988; agora::media::VideoEngine::captureIndexFromDeviceId: failed to get device index for device AgoraCapInvalid
+INFO    11:22:44:345  11988; VideoSendTrackImpl::agora::VideoSendTrackImpl::UpdateCapturer capturer=075039C8
+WARN    11:22:44:345  11988; VideoSendTrackImpl::agora::VideoSendTrackImpl::UpdateCapturer, Ignore updating the same capturer
+INFO    11:22:44:345  11988; [che] applyVideoProfile: 640x360 15 fps  -1 minFps 400 kbps, min -1 kbps orientationMode 0 degradationPrefer 0 mirrorMode 0
+ERROR   11:22:44:345  11988; agora::media::VideoEngine::captureIndexFromDeviceId: failed to get device index for device AgoraCapInvalid
+INFO    11:22:44:345  11988; agora::media::VideoEngine::validateVideoParameters: validate video parameters resolution 640x360, fps 15, rate 400000
+INFO    11:22:44:345  11988; agora::media::VideoEngine::enableMirrorMode: enable=0
+INFO    11:22:44:345  11988; agora::media::VideoEngine::setMaxVideoBitrate: max bitrate=400000
+INFO    11:22:44:345  11988; agora::media::VideoEngine::setCodecRates: set frame rate to 15
+INFO    11:22:44:345  11988; agora::media::VideoEngine::setCodec: index=1 width=640 height=360 framerate=15
+INFO    11:22:44:345  11988; agora::media::VideoEngine::setCodec: Intra Request = 0
+INFO    11:22:44:345  11988; Device type: 0
+INFO    11:22:44:345  11988; Hardware encoding false
+INFO    11:22:44:345  11988; last unique frame idx: -1 - -1
+INFO    11:22:44:345  11988; Device type: 0
+INFO    11:22:44:345  11988; EncoderWrapper::Create hardware_ = 0, hardware_low_ = 0
+INFO    11:22:44:345  11988; low bit rate limit 0
+INFO    11:22:44:345  11988; set last big unique frame idx: -1
+INFO    11:22:44:345  11988; set last small unique frame idx: -1
+INFO    11:22:44:345  11988; the init unique frame idx: -1 - -1
+INFO    11:22:44:345  11988; SetTargetWidthHeight width:640, height:360
+INFO    11:22:44:345  11988; agora::media::VideoEngine::setCodecResolution: set to 640 x 360
+INFO    11:22:44:345  11988; Set broadcast min br to -1.
+INFO    11:22:44:345  11988; [che] chat engine initialized
+INFO    11:22:44:345  11988; [time] process EngineInitialize takes 209
+INFO    11:22:44:345  11988; [rp] res: {"rtc.addref_media_engine":0} 
+INFO    11:22:44:345  11988; [rp] ["che.audio.enum_playback"]
+INFO    11:22:44:401  11988; [WIN_CORE] before==============
+INFO    11:22:44:401  11988; [WIN_CORE] before==============
+INFO    11:22:44:401  11988; [WIN_CORE] RecordDevice:HECATE GS02 GAMING SOUND CARD
+INFO    11:22:44:401  11988; [WIN_CORE] RecordDevice:{0.0.1.00000000}.{97538f2f-f2f2-4b66-adc9-c37e6f231c7b}
+INFO    11:22:44:401  11988; [WIN_CORE] RecordDevice:defaultDevice 1 index 0 partner 1 partnerCnt 1 usbDevice 1 invald 0
+INFO    11:22:44:401  11988; [WIN_CORE] ==============
+INFO    11:22:44:401  11988; [WIN_CORE] HECATE GS02 GAMING SOUND CARD
+INFO    11:22:44:401  11988; [WIN_CORE] {0.0.0.00000000}.{53c9518f-c88e-4c5b-b8c3-0299c9a8f317}
+INFO    11:22:44:401  11988; [WIN_CORE] defaultDevice 1 index 0 partner 1 partnerCnt 1 usbDevice 0 invald 0
+INFO    11:22:44:401  11988; [WIN_CORE] ==============
+INFO    11:22:44:401  11988; [WIN_CORE] 4- Realtek High Definition Audio
+INFO    11:22:44:401  11988; [WIN_CORE] {0.0.0.00000000}.{9d95c9e5-a4af-44e2-87c9-28cca162e83c}
+INFO    11:22:44:401  11988; [WIN_CORE] defaultDevice 0 index 1 partner 0 partnerCnt 0 usbDevice 0 invald 0
+INFO    11:22:44:401  11988; [WIN_CORE] ==============
+INFO    11:22:44:401  11988; [WIN_CORE] enumDeviceName partnerDeviceCnt 1 usbPartnerCnt 1 defaultPartnerCnt1
+INFO    11:22:44:401  11988; [WIN_CORE] after==============
+INFO    11:22:44:401  11988; [WIN_CORE] after==============
+INFO    11:22:44:401  11988; [WIN_CORE] RecordDevice:HECATE GS02 GAMING SOUND CARD
+INFO    11:22:44:401  11988; [WIN_CORE] RecordDevice:{0.0.1.00000000}.{97538f2f-f2f2-4b66-adc9-c37e6f231c7b}
+INFO    11:22:44:401  11988; [WIN_CORE] RecordDevice:defaultDevice 1 index 0 partner 1 partnerCnt 1 usbDevice 1
+INFO    11:22:44:401  11988; [WIN_CORE] ==============
+INFO    11:22:44:401  11988; [WIN_CORE] HECATE GS02 GAMING SOUND CARD
+INFO    11:22:44:401  11988; [WIN_CORE] {0.0.0.00000000}.{53c9518f-c88e-4c5b-b8c3-0299c9a8f317}
+INFO    11:22:44:401  11988; [WIN_CORE] defaultDevice 1 index 0 partner 1 partnerCnt 1 usbDevice 0
+INFO    11:22:44:401  11988; [WIN_CORE] ==============
+INFO    11:22:44:401  11988; [WIN_CORE] 4- Realtek High Definition Audio
+INFO    11:22:44:401  11988; [WIN_CORE] {0.0.0.00000000}.{9d95c9e5-a4af-44e2-87c9-28cca162e83c}
+INFO    11:22:44:401  11988; [WIN_CORE] defaultDevice 0 index 1 partner 0 partnerCnt 0 usbDevice 0
+INFO    11:22:44:401  11988; [WIN_CORE] ==============
+INFO    11:22:44:401  11988; [WIN_CORE] PlayoutDeviceName:Êâ¨Â£∞Âô® (HECATE GS02 GAMING SOUND CARD)(default)
+INFO    11:22:44:401  11988; [WIN_CORE] PlayoutDeviceName:{0.0.0.00000000}.{53c9518f-c88e-4c5b-b8c3-0299c9a8f317}
+INFO    11:22:44:401  11988; [WIN_CORE] PlayoutDeviceName:Realtek Digital Output (4- Realtek High Definition Audio)
+INFO    11:22:44:401  11988; [WIN_CORE] PlayoutDeviceName:{0.0.0.00000000}.{9d95c9e5-a4af-44e2-87c9-28cca162e83c}
+INFO    11:22:44:402  11988; [rp] res: {"che.audio.enum_playback":[[0,"{0.0.0.00000000}.{53c9518f-c88e-4c5b-b8c3-0299c9a8f317}","Êâ¨Â£∞Âô® (HECATE GS02 GAMING SOUND CARD)(default)"],[1,"{0.0.0.00000000}.{9d95c9e5-a4af-44e2-87c9-28cca162e83c}","Realtek Di
+INFO    11:22:44:402  11988; [rp] ["rtc.addref_media_engine"]
+INFO    11:22:44:402  11988; addRef of media engine, ref=2
+INFO    11:22:44:402  11988; [rp] res: {"rtc.addref_media_engine":0} 
+INFO    11:22:44:402  11988; [rp] ["che.audio.enum_recording"]
+INFO    11:22:44:425  11988; [WIN_CORE] RecordingDeviceName:È∫¶ÂÖãÈ£é (HECATE GS02 GAMING SOUND CARD)(default)
+INFO    11:22:44:425  11988; [WIN_CORE] RecordingDeviceName:{0.0.1.00000000}.{97538f2f-f2f2-4b66-adc9-c37e6f231c7b}
+INFO    11:22:44:425  11988; [rp] res: {"che.audio.enum_recording":[[0,"{0.0.1.00000000}.{97538f2f-f2f2-4b66-adc9-c37e6f231c7b}","È∫¶ÂÖãÈ£é (HECATE GS02 GAMING SOUND CARD)(default)"]]} 
+INFO    11:22:44:425  11988; [rp] ["rtc.addref_media_engine"]
+INFO    11:22:44:425  11988; addRef of media engine, ref=3
+INFO    11:22:44:425  11988; [rp] res: {"rtc.addref_media_engine":0} 
+INFO    11:22:44:425  11988; [rp] ["che.video.local.enum_camera"]
+INFO    11:22:44:425  11988; [rp] res: {} 
+INFO    11:22:44:425  11988; [rp] ["rtc.delref_media_engine"]
+INFO    11:22:44:425  11988; delRef of media engine, ref=2
+INFO    11:22:44:425  11988; [rp] res: {"rtc.delref_media_engine":0} 
+INFO    11:22:44:425  11988; [rp] ["che.audio.output.volume"]
+INFO    11:22:44:425  11988; output: volume=180
+INFO    11:22:44:425  11988; [rp] res: {"che.audio.output.volume":180} 
+INFO    11:22:44:426  11988; [rp] ["che.audio.input.volume"]
+INFO    11:22:44:426  11988; [rp] res: {"che.audio.input.volume":165} 
+INFO    11:22:44:426  11988; [rp] ["che.audio.get_playback_device"]
+INFO    11:22:44:426  11988; [rp] res: {"che.audio.get_playback_device":"{0.0.0.00000000}.{53c9518f-c88e-4c5b-b8c3-0299c9a8f317}"} 
+INFO    11:22:44:426  11988; [rp] ["che.audio.get_recording_device"]
+INFO    11:22:44:426  11988; [rp] res: {"che.audio.get_recording_device":"{0.0.1.00000000}.{97538f2f-f2f2-4b66-adc9-c37e6f231c7b}"} 
+INFO    11:22:55:529  11988; [rp] ["rtc.addref_media_engine"]
+INFO    11:22:55:529  11988; addRef of media engine, ref=3
+INFO    11:22:55:529  11988; [rp] res: {"rtc.addref_media_engine":0} 
+INFO    11:22:55:529  11988; [rp] ["che.audio.enum_playback"]
+INFO    11:22:55:578  11988; [WIN_CORE] before==============
+INFO    11:22:55:578  11988; [WIN_CORE] before==============
+INFO    11:22:55:578  11988; [WIN_CORE] RecordDevice:HECATE GS02 GAMING SOUND CARD
+INFO    11:22:55:578  11988; [WIN_CORE] RecordDevice:{0.0.1.00000000}.{97538f2f-f2f2-4b66-adc9-c37e6f231c7b}
+INFO    11:22:55:578  11988; [WIN_CORE] RecordDevice:defaultDevice 1 index 0 partner 1 partnerCnt 1 usbDevice 1 invald 0
+INFO    11:22:55:578  11988; [WIN_CORE] ==============
+INFO    11:22:55:578  11988; [WIN_CORE] HECATE GS02 GAMING SOUND CARD
+INFO    11:22:55:578  11988; [WIN_CORE] {0.0.0.00000000}.{53c9518f-c88e-4c5b-b8c3-0299c9a8f317}
+INFO    11:22:55:578  11988; [WIN_CORE] defaultDevice 1 index 0 partner 1 partnerCnt 1 usbDevice 0 invald 0
+INFO    11:22:55:578  11988; [WIN_CORE] ==============
+INFO    11:22:55:578  11988; [WIN_CORE] 4- Realtek High Definition Audio
+INFO    11:22:55:578  11988; [WIN_CORE] {0.0.0.00000000}.{9d95c9e5-a4af-44e2-87c9-28cca162e83c}
+INFO    11:22:55:578  11988; [WIN_CORE] defaultDevice 0 index 1 partner 0 partnerCnt 0 usbDevice 0 invald 0
+INFO    11:22:55:578  11988; [WIN_CORE] ==============
+INFO    11:22:55:578  11988; [WIN_CORE] enumDeviceName partnerDeviceCnt 1 usbPartnerCnt 1 defaultPartnerCnt1
+INFO    11:22:55:578  11988; [WIN_CORE] after==============
+INFO    11:22:55:578  11988; [WIN_CORE] after==============
+INFO    11:22:55:578  11988; [WIN_CORE] RecordDevice:HECATE GS02 GAMING SOUND CARD
+INFO    11:22:55:578  11988; [WIN_CORE] RecordDevice:{0.0.1.00000000}.{97538f2f-f2f2-4b66-adc9-c37e6f231c7b}
+INFO    11:22:55:578  11988; [WIN_CORE] RecordDevice:defaultDevice 1 index 0 partner 1 partnerCnt 1 usbDevice 1
+INFO    11:22:55:578  11988; [WIN_CORE] ==============
+INFO    11:22:55:578  11988; [WIN_CORE] HECATE GS02 GAMING SOUND CARD
+INFO    11:22:55:578  11988; [WIN_CORE] {0.0.0.00000000}.{53c9518f-c88e-4c5b-b8c3-0299c9a8f317}
+INFO    11:22:55:578  11988; [WIN_CORE] defaultDevice 1 index 0 partner 1 partnerCnt 1 usbDevice 0
+INFO    11:22:55:578  11988; [WIN_CORE] ==============
+INFO    11:22:55:578  11988; [WIN_CORE] 4- Realtek High Definition Audio
+INFO    11:22:55:578  11988; [WIN_CORE] {0.0.0.00000000}.{9d95c9e5-a4af-44e2-87c9-28cca162e83c}
+INFO    11:22:55:578  11988; [WIN_CORE] defaultDevice 0 index 1 partner 0 partnerCnt 0 usbDevice 0
+INFO    11:22:55:578  11988; [WIN_CORE] ==============
+INFO    11:22:55:578  11988; [WIN_CORE] PlayoutDeviceName:Êâ¨Â£∞Âô® (HECATE GS02 GAMING SOUND CARD)(default)
+INFO    11:22:55:578  11988; [WIN_CORE] PlayoutDeviceName:{0.0.0.00000000}.{53c9518f-c88e-4c5b-b8c3-0299c9a8f317}
+INFO    11:22:55:578  11988; [WIN_CORE] PlayoutDeviceName:Realtek Digital Output (4- Realtek High Definition Audio)
+INFO    11:22:55:578  11988; [WIN_CORE] PlayoutDeviceName:{0.0.0.00000000}.{9d95c9e5-a4af-44e2-87c9-28cca162e83c}
+INFO    11:22:55:578  11988; [rp] res: {"che.audio.enum_playback":[[0,"{0.0.0.00000000}.{53c9518f-c88e-4c5b-b8c3-0299c9a8f317}","Êâ¨Â£∞Âô® (HECATE GS02 GAMING SOUND CARD)(default)"],[1,"{0.0.0.00000000}.{9d95c9e5-a4af-44e2-87c9-28cca162e83c}","Realtek Di
+INFO    11:22:55:579  11988; [rp] ["rtc.addref_media_engine"]
+INFO    11:22:55:579  11988; addRef of media engine, ref=4
+INFO    11:22:55:579  11988; [rp] res: {"rtc.addref_media_engine":0} 
+INFO    11:22:55:579  11988; [rp] ["che.audio.enum_recording"]
+INFO    11:22:55:603  11988; [WIN_CORE] RecordingDeviceName:È∫¶ÂÖãÈ£é (HECATE GS02 GAMING SOUND CARD)(default)
+INFO    11:22:55:603  11988; [WIN_CORE] RecordingDeviceName:{0.0.1.00000000}.{97538f2f-f2f2-4b66-adc9-c37e6f231c7b}
+INFO    11:22:55:603  11988; [rp] res: {"che.audio.enum_recording":[[0,"{0.0.1.00000000}.{97538f2f-f2f2-4b66-adc9-c37e6f231c7b}","È∫¶ÂÖãÈ£é (HECATE GS02 GAMING SOUND CARD)(default)"]]} 
+INFO    11:22:55:603  11988; [rp] ["rtc.addref_media_engine"]
+INFO    11:22:55:603  11988; addRef of media engine, ref=5
+INFO    11:22:55:603  11988; [rp] res: {"rtc.addref_media_engine":0} 
+INFO    11:22:55:603  11988; [rp] ["che.video.local.enum_camera"]
+INFO    11:22:55:603  11988; [rp] res: {} 
+INFO    11:22:55:603  11988; [rp] ["rtc.delref_media_engine"]
+INFO    11:22:55:603  11988; delRef of media engine, ref=4
+INFO    11:22:55:603  11988; [rp] res: {"rtc.delref_media_engine":0} 
+INFO    11:22:55:603  11988; [rp] ["che.audio.output.volume"]
+INFO    11:22:55:603  11988; output: volume=180
+INFO    11:22:55:603  11988; [rp] res: {"che.audio.output.volume":180} 
+INFO    11:22:55:603  11988; [rp] ["che.audio.input.volume"]
+INFO    11:22:55:604  11988; [rp] res: {"che.audio.input.volume":165} 
+INFO    11:22:55:604  11988; [rp] ["che.audio.get_playback_device"]
+INFO    11:22:55:604  11988; [rp] res: {"che.audio.get_playback_device":"{0.0.0.00000000}.{53c9518f-c88e-4c5b-b8c3-0299c9a8f317}"} 
+INFO    11:22:55:604  11988; [rp] ["che.audio.get_recording_device"]
+INFO    11:22:55:604  11988; [rp] res: {"che.audio.get_recording_device":"{0.0.1.00000000}.{97538f2f-f2f2-4b66-adc9-c37e6f231c7b}"} 
+INFO    11:22:57:745  15492; API call to setupLocalVideo 00030ACE
+INFO    11:22:57:745  15492; API call to start preview
+INFO    11:22:57:745  11988; Create video user 0
+ERROR   11:22:57:745  11988; agora::media::VideoEngine::captureIndexFromDeviceId: failed to get device index for device AgoraCapInvalid
+INFO    11:22:57:745  11988; agora::media::VideoEngine::doStartLocalRender: init? 1 capture id -1 device 0 capturing? 0 rendering? 0
+INFO    11:22:57:745  11988; agora::media::VideoEngine::doStartLocalRender: local render windows 00030ACE
+INFO    11:22:57:745  11988; AgoraVideoOutput::agora::AgoraVideoOutput::Init type=100, view=00030ACE
+INFO    11:22:57:745  11988; AgoraRTC::ModuleVideoRenderImpl::ModuleVideoRenderImpl: prefer renderer 1(flags: 0x00000000)
+INFO    11:22:57:745  11988; View Info: hWnd=00030ACE,left=874,top=578,right=1036,bottom:698,isVisible=1
+INFO    11:22:57:776  11988; AgoraRTC::VideoRenderWindowsImpl::Init,Render Type:GDI Render,iRet:0
+INFO    11:22:57:776  11988; AgoraVideoOutput::agora::AgoraVideoOutput::Start uid=0, stream_id=0, render_mode=1
+INFO    11:22:57:776  11988; AgoraRTC::IncomingVideoStream::setRenderListener running for stream 0
+INFO    11:22:57:776  11988; agora::media::VideoEngine::doStartLocalRender success
+INFO    11:22:57:776  11988; [rp] {"rtc.video.preview":true}
+INFO    11:22:57:776  11988; API call to start video preview
+INFO    11:22:57:776  11988; addRef of media engine, ref=5
+INFO    11:22:57:776  11988; [che] applyVideoProfile: 640x360 15 fps  -1 minFps 400 kbps, min -1 kbps orientationMode 0 degradationPrefer 0 mirrorMode 0
+ERROR   11:22:57:776  11988; agora::media::VideoEngine::captureIndexFromDeviceId: failed to get device index for device AgoraCapInvalid
+INFO    11:22:57:776  11988; agora::media::VideoEngine::validateVideoParameters: validate video parameters resolution 640x360, fps 15, rate 400000
+INFO    11:22:57:776  11988; agora::media::VideoEngine::enableMirrorMode: enable=0
+INFO    11:22:57:776  11988; agora::media::VideoEngine::setMaxVideoBitrate: max bitrate=400000
+INFO    11:22:57:776  11988; agora::media::VideoEngine::setCodecRates: set frame rate to 15
+INFO    11:22:57:776  11988; agora::media::VideoEngine::setCodec: index=1 width=640 height=360 framerate=15
+INFO    11:22:57:776  11988; agora::media::VideoEngine::setCodec: Intra Request = 0
+INFO    11:22:57:776  11988; agora::media::VideoEngine::setCodecResolution: set to 640 x 360
+INFO    11:22:57:776  11988; Set broadcast min br to -1.
+ERROR   11:22:57:776  11988; agora::media::VideoEngine::captureIndexFromDeviceId: failed to get device index for device AgoraCapInvalid
+INFO    11:22:57:776  11988; VideoSendTrackImpl::agora::VideoSendTrackImpl::UpdateCapturer capturer=075039C8
+WARN    11:22:57:776  11988; VideoSendTrackImpl::agora::VideoSendTrackImpl::UpdateCapturer, Ignore updating the same capturer
+INFO    11:22:57:776  11988; video agora::media::VideoEngine::setPeerVideoMuteStatus: cid  uid 0 muted 0
+ERROR   11:22:57:777  15072; agora::media::VideoEngine::captureIndexFromDeviceId: failed to get device index for device AgoraCapInvalid
+INFO    11:22:57:777  11988; agora::media::VideoEngine::startCapture::<lambda_8cd3c7ba3ec6d3cb259f9988c2fea222>::operator (): device? 0 init? 1 local enabled? 1 capturing? 0 rendering? 1
+ERROR   11:22:57:777  15072; agora::media::VideoEngine::captureIdFromIndex: failed to get device id for device 0
+INFO    11:22:57:777  11988; [rtpSender] set paced sender status 1.
+
+INFO    11:22:57:777  11988; [rtpSender] set paced sender mode 0.
+
+INFO    11:22:57:777  11988; Initializing paced sender for broadcasting, strategy 2.
+INFO    11:22:57:777  15072; agora::media::VideoEngine::SetStreamState: localVideoState 3, error 4
+ERROR   11:22:57:777  15072; agora::media::VideoEngine::startCapture::<lambda_8cd3c7ba3ec6d3cb259f9988c2fea222>::()::<lambda_c395c7cbc19af100dface3be821ef660>::()::<lambda_a48cf68e3e8e910edf01920fa29f60b6>::operator (): no video capture devices found on 
+INFO    11:22:58:561  15492; API call to stop preview
+INFO    11:22:58:561  11988; [rp] {"rtc.video.preview":false}
+INFO    11:22:58:561  11988; API call to stop video preview
+INFO    11:22:58:561  11988; delRef of media engine, ref=4
+INFO    11:22:58:561  11988; agora::media::VideoEngine::stopLocalRender
+INFO    11:22:58:561  11988; AgoraVideoOutput::agora::AgoraVideoOutput::Stop
+WARN    11:22:58:561  11988; AgoraRTC::IncomingVideoStream::Stop: Not running
+INFO    11:22:58:561  11988; AgoraVideoOutput::agora::AgoraVideoOutput::Destroy
+INFO    11:22:58:561  11988; agora::media::VideoEngine::stopLocalRender success
+INFO    11:22:58:561  11988; agora::media::VideoEngine::stopCapture: stopCapture success
+INFO    11:22:58:561  11988; agora::media::VideoEngine::SetStreamState: localVideoState 0, error 0
+INFO    11:22:58:561  11988; [rtpSender] set paced sender status 0.
+
+INFO    11:22:58:561  11988; agora::media::VideoEngine::stopRemoteRender
+INFO    11:22:58:561  11988; video agora::media::VideoEngine::setPeerVideoMuteStatus: cid  uid 0 muted 1
+Local Date: 7‘¬ 22 2020 Local Time: 11:23:24
+Build info: Jun 17 2020 01:01:43 r
+
+INFO    11:23:24:631  12032; [rp] {"rtc.lastmile_test":true}
+INFO    11:23:24:631  12032; [nettest] last mile test enabled
+INFO    11:23:24:632  12032; [vocs] vocs initialized
+INFO    11:23:24:632  12032; [vocs] selected: 52.58.56.244:8000
+INFO    11:23:24:632  12032; tcp_client connecting 52.58.56.244:8000
+INFO    11:23:24:632  12032; [vocs] request vos list.......
+INFO    11:23:24:632  12032; [vocs] selected: 112.126.96.46:1080
+INFO    11:23:24:632  12032; [vocs] request vos list.......
+INFO    11:23:24:632  12032; [vocs] selected: 3.0.163.78:25000
+INFO    11:23:24:632  12032; [vocs] request vos list.......
+INFO    11:23:24:633  12032; [dns] parsed ip 183.232.231.172
+INFO    11:23:24:633  12032; [dns] parsed ip 183.232.231.174
+INFO    11:23:24:633  12032; [dns] parsed ip 31.13.83.16
+INFO    11:23:24:633  12032; [dns] parsed ip 47.94.215.36
+INFO    11:23:24:633  12032; [dns] parsed ip 47.95.242.6
+INFO    11:23:24:633  12032; [dns] parsed ip 116.62.127.18
+INFO    11:23:24:633  12032; [dns] parsed ip 112.126.76.219
+INFO    11:23:24:633  12032; [dns] parsed ip 47.97.157.160
+INFO    11:23:24:633  12032; [dns] parsed ip 116.62.134.61
+INFO    11:23:24:633  12032; [dns] parsed ip 47.95.116.69
+INFO    11:23:24:633  12032; [dns] parsed ip 101.132.119.238
+INFO    11:23:24:633  12032; [dns] parsed ip 47.95.250.218
+INFO    11:23:24:633  12032; [dns] parsed ip 183.236.51.231
+INFO    11:23:24:633  12032; [dns] parsed ip 111.62.209.88
+INFO    11:23:24:633  12032; [rs] dns parse result code: 0, servers size: 2
+INFO    11:23:24:633  12032; [rs] updateServers 183.236.51.231:8000, priority 2
+INFO    11:23:24:633  12032; [rs] updateServers 111.62.209.88:8000, priority 2
+INFO    11:23:24:660  12032; [dns] parsed ip 47.104.164.53
+INFO    11:23:24:660  12032; [dns] parsed ip 47.102.214.104
+INFO    11:23:24:660  12032; [dns] parsed ip 47.96.234.219
+INFO    11:23:24:660  12032; [dns] parsed ip 116.62.127.18
+INFO    11:23:24:660  12032; [dns] parsed ip 47.97.157.160
+INFO    11:23:24:660  12032; [dns] parsed ip 47.95.242.6
+INFO    11:23:24:660  12032; [dns] parsed ip 112.126.76.219
+INFO    11:23:24:661  12032; [dns] parsed ip 101.132.119.238
+INFO    11:23:24:661  12032; [dns] parsed ip 47.95.116.69
+INFO    11:23:24:661  12032; [dns] parsed ip 47.94.215.36
+INFO    11:23:24:661  12032; [dns] parsed ip 47.95.250.218
+INFO    11:23:24:661  12032; [dns] parsed ip 116.62.134.61
+INFO    11:23:24:664  12032; [dns] parsed ip 116.62.127.18
+INFO    11:23:24:664  12032; [dns] parsed ip 47.97.157.160
+INFO    11:23:24:664  12032; [dns] parsed ip 47.95.242.6
+INFO    11:23:24:664  12032; [dns] parsed ip 112.126.76.219
+INFO    11:23:24:664  12032; [dns] parsed ip 101.132.119.238
+INFO    11:23:24:664  12032; [dns] parsed ip 47.95.116.69
+INFO    11:23:24:664  12032; [dns] parsed ip 47.94.215.36
+INFO    11:23:24:664  12032; [dns] parsed ip 47.95.250.218
+INFO    11:23:24:665  12032; [dns] parsed ip 116.62.134.61
+INFO    11:23:24:665  12032; [ap] onParsedDns with err 0, 116.62.127.18, 47.97.157.160, 47.95.242.6, 112.126.76.219, 101.132.119.238, 47.95.116.69, 47.94.215.36, 47.95.250.218, 116.62.134.61, 
+INFO    11:23:24:666  12032; [dns] parsed ip 116.62.127.18
+INFO    11:23:24:666  12032; [dns] parsed ip 112.126.76.219
+INFO    11:23:24:666  12032; [dns] parsed ip 101.132.119.238
+INFO    11:23:24:666  12032; [dns] parsed ip 47.95.116.69
+INFO    11:23:24:666  12032; [dns] parsed ip 47.95.250.218
+INFO    11:23:24:666  12032; [dns] parsed ip 47.94.215.36
+INFO    11:23:24:666  12032; [dns] parsed ip 47.95.242.6
+INFO    11:23:24:666  12032; [dns] parsed ip 116.62.134.61
+INFO    11:23:24:666  12032; [dns] parsed ip 47.97.157.160
+INFO    11:23:24:676  12032; [ap/u] **responsed from 47.107.39.93:1080, TDS(64).
+INFO    11:23:24:676  12032; [ap] onAPTdsRes success with config: {}, size: 0
+INFO    11:23:24:679  12032; CacheManager: save cache to storage elapsed 4
+INFO    11:23:24:716  12032; [ap/u] **responsed from 112.126.96.46:25000, TDS(64).
+INFO    11:23:24:765  12032; [vocs/u] **responsed from 112.126.96.46:1080, 3 vos refreshed
+INFO    11:23:24:775  10568; API call to create data stream, id = 49153
+INFO    11:23:24:914  12032; [ap/u] **responsed from 3.0.163.78:8000, TDS(64).
+INFO    11:23:25:124  12032; [vocs/u] **responsed from 3.0.163.78:25000, 3 vos refreshed
+INFO    11:23:25:139  12032; [vocs/u] **responsed from 52.58.56.244:8000, 3 vos refreshed
+INFO    11:23:29:619  12032; [rs] **report stats: seq: 10, report list size 0, tx/rx: 1282/480, cache size: 0
+INFO    11:23:29:619  12032; [rs] report server1: 183.236.51.231:8000
+Local Date: 7‘¬ 22 2020 Local Time: 11:26:29
+Build info: Jun 17 2020 01:01:43 r
+
+INFO    11:26:29:621   9384; [rp] {"rtc.lastmile_test":true}
+INFO    11:26:29:621   9384; [nettest] last mile test enabled
+INFO    11:26:29:622   9384; [vocs] vocs initialized
+INFO    11:26:29:622   9384; [vocs] selected: 52.58.56.244:8000
+INFO    11:26:29:623   9384; tcp_client connecting 52.58.56.244:8000
+INFO    11:26:29:623   9384; [vocs] request vos list.......
+INFO    11:26:29:623   9384; [vocs] selected: 112.126.96.46:1080
+INFO    11:26:29:623   9384; [vocs] request vos list.......
+INFO    11:26:29:623   9384; [vocs] selected: 3.0.163.78:25000
+INFO    11:26:29:623   9384; [vocs] request vos list.......
+INFO    11:26:29:623   9384; [dns] parsed ip 112.126.76.219
+INFO    11:26:29:623   9384; [dns] parsed ip 47.95.116.69
+INFO    11:26:29:623   9384; [dns] parsed ip 47.95.242.6
+INFO    11:26:29:623   9384; [dns] parsed ip 47.95.250.218
+INFO    11:26:29:623   9384; [dns] parsed ip 116.62.134.61
+INFO    11:26:29:623   9384; [dns] parsed ip 47.94.215.36
+INFO    11:26:29:623   9384; [dns] parsed ip 47.97.157.160
+INFO    11:26:29:623   9384; [dns] parsed ip 116.62.127.18
+INFO    11:26:29:623   9384; [dns] parsed ip 101.132.119.238
+INFO    11:26:29:623   9384; [dns] parsed ip 183.232.231.172
+INFO    11:26:29:623   9384; [dns] parsed ip 183.232.231.174
+INFO    11:26:29:623   9384; [dns] parsed ip 75.126.124.162
+INFO    11:26:29:624   9384; [dns] parsed ip 47.104.164.53
+INFO    11:26:29:624   9384; [dns] parsed ip 47.102.214.104
+INFO    11:26:29:624   9384; [dns] parsed ip 47.96.234.219
+INFO    11:26:29:624   9384; [dns] parsed ip 47.95.116.69
+INFO    11:26:29:624   9384; [dns] parsed ip 47.97.157.160
+INFO    11:26:29:624   9384; [dns] parsed ip 116.62.134.61
+INFO    11:26:29:624   9384; [dns] parsed ip 47.95.242.6
+INFO    11:26:29:624   9384; [dns] parsed ip 47.94.215.36
+INFO    11:26:29:624   9384; [dns] parsed ip 112.126.76.219
+INFO    11:26:29:624   9384; [dns] parsed ip 47.95.250.218
+INFO    11:26:29:624   9384; [dns] parsed ip 116.62.127.18
+INFO    11:26:29:624   9384; [dns] parsed ip 101.132.119.238
+INFO    11:26:29:625   9384; [dns] parsed ip 183.236.51.231
+INFO    11:26:29:625   9384; [dns] parsed ip 111.62.209.88
+INFO    11:26:29:625   9384; [rs] dns parse result code: 0, servers size: 2
+INFO    11:26:29:625   9384; [rs] updateServers 183.236.51.231:8000, priority 2
+INFO    11:26:29:625   9384; [rs] updateServers 111.62.209.88:8000, priority 2
+INFO    11:26:29:626   9384; [dns] parsed ip 47.95.116.69
+INFO    11:26:29:626   9384; [dns] parsed ip 47.97.157.160
+INFO    11:26:29:626   9384; [dns] parsed ip 116.62.134.61
+INFO    11:26:29:626   9384; [dns] parsed ip 47.95.242.6
+INFO    11:26:29:626   9384; [dns] parsed ip 47.94.215.36
+INFO    11:26:29:626   9384; [dns] parsed ip 112.126.76.219
+INFO    11:26:29:626   9384; [dns] parsed ip 47.95.250.218
+INFO    11:26:29:626   9384; [dns] parsed ip 116.62.127.18
+INFO    11:26:29:626   9384; [dns] parsed ip 101.132.119.238
+INFO    11:26:29:626   9384; [ap] onParsedDns with err 0, 47.95.116.69, 47.97.157.160, 116.62.134.61, 47.95.242.6, 47.94.215.36, 112.126.76.219, 47.95.250.218, 116.62.127.18, 101.132.119.238, 
+INFO    11:26:29:637   9384; [dns] parsed ip 101.132.119.238
+INFO    11:26:29:637   9384; [dns] parsed ip 47.94.215.36
+INFO    11:26:29:637   9384; [dns] parsed ip 47.97.157.160
+INFO    11:26:29:637   9384; [dns] parsed ip 47.95.250.218
+INFO    11:26:29:637   9384; [dns] parsed ip 47.95.242.6
+INFO    11:26:29:637   9384; [dns] parsed ip 47.95.116.69
+INFO    11:26:29:637   9384; [dns] parsed ip 116.62.134.61
+INFO    11:26:29:637   9384; [dns] parsed ip 116.62.127.18
+INFO    11:26:29:637   9384; [dns] parsed ip 112.126.76.219
+INFO    11:26:29:649   9384; [ap/u] **responsed from 47.107.39.93:1080, TDS(64).
+INFO    11:26:29:649   9384; [ap] onAPTdsRes success with config: {}, size: 0
+INFO    11:26:29:652   9384; CacheManager: save cache to storage elapsed 2
+INFO    11:26:29:669   9384; [ap/u] **responsed from 112.126.96.46:25000, TDS(64).
+INFO    11:26:29:701   9384; [vocs/u] **responsed from 112.126.96.46:1080, 3 vos refreshed
+INFO    11:26:29:780  11140; API call to create data stream, id = 49153
+INFO    11:26:29:868   9384; [ap/u] **responsed from 3.0.163.78:8000, TDS(64).
+INFO    11:26:29:989   9384; [vocs/u] **responsed from 3.0.163.78:25000, 3 vos refreshed
+INFO    11:26:30:104   9384; [vocs/u] **responsed from 52.58.56.244:8000, 3 vos refreshed
+INFO    11:26:30:304   9384; [rlbs/u] responsed from 3.0.163.78:9700 with servers 111.40.181.167:8913
+INFO    11:26:30:304   9384; [rs] updateServers 111.40.181.167:8913, priority 3
+INFO    11:26:30:304   9384; [rs] updateServers 111.62.9.165:8913, priority 3
+INFO    11:26:30:304   9384; [rs] updateServers 221.178.5.7:8913, priority 3
+INFO    11:26:34:611   9384; [rs] **report stats: seq: 10, report list size 0, tx/rx: 1282/480, cache size: 0
+INFO    11:26:34:611   9384; [rs] report server1: 111.40.181.167:8913
+Local Date: 7‘¬ 22 2020 Local Time: 11:27:54
+Build info: Jun 17 2020 01:01:43 r
+
+INFO    11:27:54:345   8372; [rp] {"rtc.lastmile_test":true}
+INFO    11:27:54:345   8372; [nettest] last mile test enabled
+INFO    11:27:54:346   8372; [vocs] vocs initialized
+INFO    11:27:54:346   8372; [vocs] selected: 52.58.56.244:8000
+INFO    11:27:54:346   8372; tcp_client connecting 52.58.56.244:8000
+INFO    11:27:54:346   8372; [vocs] request vos list.......
+INFO    11:27:54:347   8372; [vocs] selected: 112.126.96.46:1080
+INFO    11:27:54:347   8372; [vocs] request vos list.......
+INFO    11:27:54:347   8372; [vocs] selected: 3.0.163.78:25000
+INFO    11:27:54:347   8372; [vocs] request vos list.......
+INFO    11:27:54:347   8372; [dns] parsed ip 199.59.148.97
+INFO    11:27:54:347   8372; [dns] parsed ip 183.232.231.172
+INFO    11:27:54:347   8372; [dns] parsed ip 183.232.231.174
+INFO    11:27:54:347   8372; [dns] parsed ip 47.95.116.69
+INFO    11:27:54:347   8372; [dns] parsed ip 47.95.242.6
+INFO    11:27:54:347   8372; [dns] parsed ip 47.95.250.218
+INFO    11:27:54:347   8372; [dns] parsed ip 112.126.76.219
+INFO    11:27:54:347   8372; [dns] parsed ip 47.94.215.36
+INFO    11:27:54:347   8372; [dns] parsed ip 116.62.127.18
+INFO    11:27:54:347   8372; [dns] parsed ip 116.62.134.61
+INFO    11:27:54:347   8372; [dns] parsed ip 101.132.119.238
+INFO    11:27:54:347   8372; [dns] parsed ip 47.97.157.160
+INFO    11:27:54:348   8372; [dns] parsed ip 183.236.51.231
+INFO    11:27:54:348   8372; [dns] parsed ip 111.62.209.88
+INFO    11:27:54:348   8372; [rs] dns parse result code: 0, servers size: 2
+INFO    11:27:54:348   8372; [rs] updateServers 183.236.51.231:8000, priority 2
+INFO    11:27:54:348   8372; [rs] updateServers 111.62.209.88:8000, priority 2
+INFO    11:27:54:352   8372; [dns] parsed ip 116.62.127.18
+INFO    11:27:54:352   8372; [dns] parsed ip 47.97.157.160
+INFO    11:27:54:352   8372; [dns] parsed ip 101.132.119.238
+INFO    11:27:54:352   8372; [dns] parsed ip 47.94.215.36
+INFO    11:27:54:352   8372; [dns] parsed ip 47.95.242.6
+INFO    11:27:54:352   8372; [dns] parsed ip 47.95.250.218
+INFO    11:27:54:352   8372; [dns] parsed ip 47.95.116.69
+INFO    11:27:54:352   8372; [dns] parsed ip 112.126.76.219
+INFO    11:27:54:352   8372; [dns] parsed ip 116.62.134.61
+INFO    11:27:54:353   8372; [dns] parsed ip 116.62.127.18
+INFO    11:27:54:353   8372; [dns] parsed ip 47.97.157.160
+INFO    11:27:54:353   8372; [dns] parsed ip 101.132.119.238
+INFO    11:27:54:353   8372; [dns] parsed ip 47.94.215.36
+INFO    11:27:54:353   8372; [dns] parsed ip 47.95.242.6
+INFO    11:27:54:353   8372; [dns] parsed ip 47.95.250.218
+INFO    11:27:54:353   8372; [dns] parsed ip 47.95.116.69
+INFO    11:27:54:353   8372; [dns] parsed ip 112.126.76.219
+INFO    11:27:54:353   8372; [dns] parsed ip 116.62.134.61
+INFO    11:27:54:353   8372; [ap] onParsedDns with err 0, 116.62.127.18, 47.97.157.160, 101.132.119.238, 47.94.215.36, 47.95.242.6, 47.95.250.218, 47.95.116.69, 112.126.76.219, 116.62.134.61, 
+INFO    11:27:54:370   8372; [dns] parsed ip 47.104.164.53
+INFO    11:27:54:370   8372; [dns] parsed ip 47.102.214.104
+INFO    11:27:54:370   8372; [dns] parsed ip 47.96.234.219
+INFO    11:27:54:374   8372; [ap/u] **responsed from 47.107.39.93:1080, TDS(64).
+INFO    11:27:54:374   8372; [ap] onAPTdsRes success with config: {}, size: 0
+INFO    11:27:54:378   8372; CacheManager: save cache to storage elapsed 4
+INFO    11:27:54:378   8372; [dns] parsed ip 47.95.116.69
+INFO    11:27:54:378   8372; [dns] parsed ip 116.62.127.18
+INFO    11:27:54:378   8372; [dns] parsed ip 47.94.215.36
+INFO    11:27:54:378   8372; [dns] parsed ip 47.97.157.160
+INFO    11:27:54:378   8372; [dns] parsed ip 116.62.134.61
+INFO    11:27:54:378   8372; [dns] parsed ip 112.126.76.219
+INFO    11:27:54:378   8372; [dns] parsed ip 101.132.119.238
+INFO    11:27:54:378   8372; [dns] parsed ip 47.95.250.218
+INFO    11:27:54:378   8372; [dns] parsed ip 47.95.242.6
+INFO    11:27:54:407   8372; [ap/u] **responsed from 112.126.96.46:25000, TDS(64).
+INFO    11:27:54:435   8372; [vocs/u] **responsed from 112.126.96.46:1080, 3 vos refreshed
+INFO    11:27:54:500   1728; API call to create data stream, id = 49153
+INFO    11:27:54:597   8372; [ap/u] **responsed from 3.0.163.78:8000, TDS(64).
+INFO    11:27:54:714   8372; [vocs/u] **responsed from 52.58.56.244:8000, 3 vos refreshed
+INFO    11:27:54:715   8372; [vocs/u] **responsed from 3.0.163.78:25000, 3 vos refreshed
+INFO    11:27:54:870   8372; [rlbs/u] responsed from 3.0.163.78:9700 with servers 112.24.105.245:8913
+INFO    11:27:54:870   8372; [rs] updateServers 112.24.105.245:8913, priority 3
+INFO    11:27:54:870   8372; [rs] updateServers 223.111.146.119:8913, priority 3
+INFO    11:27:54:870   8372; [rs] updateServers 221.178.5.7:8913, priority 3
+Local Date: 7‘¬ 22 2020 Local Time: 15:00:09
+Build info: Jun 17 2020 01:01:43 r
+
+INFO    15:00:09:661  14684; [rp] {"rtc.lastmile_test":true}
+INFO    15:00:09:661  14684; [nettest] last mile test enabled
+INFO    15:00:09:661  14684; [vocs] vocs initialized
+INFO    15:00:09:661  14684; [vocs] selected: 52.58.56.244:8000
+INFO    15:00:09:662  14684; tcp_client connecting 52.58.56.244:8000
+INFO    15:00:09:662  14684; [vocs] request vos list.......
+INFO    15:00:09:749  14684; [vocs] selected: 112.126.96.46:1080
+INFO    15:00:09:749  14684; [vocs] request vos list.......
+INFO    15:00:09:749  14684; [vocs] selected: 3.0.163.78:25000
+INFO    15:00:09:749  14684; [vocs] request vos list.......
+INFO    15:00:09:935  14684; [dns] parsed ip 183.232.231.174
+INFO    15:00:09:935  14684; [dns] parsed ip 183.232.231.172
+INFO    15:00:09:935  14684; [dns] parsed ip 101.132.119.238
+INFO    15:00:09:935  14684; [dns] parsed ip 47.95.250.218
+INFO    15:00:09:935  14684; [dns] parsed ip 47.95.242.6
+INFO    15:00:09:935  14684; [dns] parsed ip 112.126.76.219
+INFO    15:00:09:935  14684; [dns] parsed ip 47.97.157.160
+INFO    15:00:09:935  14684; [dns] parsed ip 47.94.215.36
+INFO    15:00:09:935  14684; [dns] parsed ip 116.62.134.61
+INFO    15:00:09:935  14684; [dns] parsed ip 47.95.116.69
+INFO    15:00:09:935  14684; [dns] parsed ip 116.62.127.18
+INFO    15:00:09:935  14684; [dns] parsed ip 31.13.72.54
+INFO    15:00:09:935  14684; [dns] parsed ip 116.62.134.61
+INFO    15:00:09:935  14684; [dns] parsed ip 47.94.215.36
+INFO    15:00:09:935  14684; [dns] parsed ip 47.95.116.69
+INFO    15:00:09:935  14684; [dns] parsed ip 101.132.119.238
+INFO    15:00:09:935  14684; [dns] parsed ip 116.62.127.18
+INFO    15:00:09:935  14684; [dns] parsed ip 47.95.250.218
+INFO    15:00:09:935  14684; [dns] parsed ip 112.126.76.219
+INFO    15:00:09:935  14684; [dns] parsed ip 47.97.157.160
+INFO    15:00:09:935  14684; [dns] parsed ip 47.95.242.6
+INFO    15:00:09:935  14684; [dns] parsed ip 116.62.134.61
+INFO    15:00:09:935  14684; [dns] parsed ip 47.94.215.36
+INFO    15:00:09:935  14684; [dns] parsed ip 47.95.116.69
+INFO    15:00:09:935  14684; [dns] parsed ip 101.132.119.238
+INFO    15:00:09:935  14684; [dns] parsed ip 116.62.127.18
+INFO    15:00:09:935  14684; [dns] parsed ip 47.95.250.218
+INFO    15:00:09:935  14684; [dns] parsed ip 112.126.76.219
+INFO    15:00:09:935  14684; [dns] parsed ip 47.97.157.160
+INFO    15:00:09:935  14684; [dns] parsed ip 47.95.242.6
+INFO    15:00:09:936  14684; [ap] onParsedDns with err 0, 116.62.134.61, 47.94.215.36, 47.95.116.69, 101.132.119.238, 116.62.127.18, 47.95.250.218, 112.126.76.219, 47.97.157.160, 47.95.242.6, 
+INFO    15:00:09:936  14684; [dns] parsed ip 183.236.51.231
+INFO    15:00:09:936  14684; [dns] parsed ip 111.62.209.88
+INFO    15:00:09:936  14684; [rs] dns parse result code: 0, servers size: 2
+INFO    15:00:09:936  14684; [rs] updateServers 183.236.51.231:8000, priority 2
+INFO    15:00:09:936  14684; [rs] updateServers 111.62.209.88:8000, priority 2
+INFO    15:00:09:936  14684; [dns] parsed ip 112.126.76.219
+INFO    15:00:09:936  14684; [dns] parsed ip 47.95.242.6
+INFO    15:00:09:936  14684; [dns] parsed ip 101.132.119.238
+INFO    15:00:09:936  14684; [dns] parsed ip 116.62.127.18
+INFO    15:00:09:936  14684; [dns] parsed ip 47.94.215.36
+INFO    15:00:09:936  14684; [dns] parsed ip 47.97.157.160
+INFO    15:00:09:936  14684; [dns] parsed ip 116.62.134.61
+INFO    15:00:09:936  14684; [dns] parsed ip 47.95.250.218
+INFO    15:00:09:936  14684; [dns] parsed ip 47.95.116.69
+INFO    15:00:09:936  14684; [dns] parsed ip 47.104.164.53
+INFO    15:00:09:936  14684; [dns] parsed ip 47.96.234.219
+INFO    15:00:09:936  14684; [dns] parsed ip 47.102.214.104
+INFO    15:00:09:936  14684; [ap/u] **responsed from 47.107.39.93:1080, CDS(8).
+INFO    15:00:09:936  14684; [ap] onAPCdsRes success with config: ∏∆êØﬂ‘⁄§ó—˙ œü·íñ≤¬€‹≠∆…‚ÉÖëæ
+INFO    15:00:09:936  14684; [rp-cds] {}
+INFO    15:00:09:936  14684; [cs] applied directly: {"configs":{},"version":"27"}, elapsed: 0
+INFO    15:00:09:940  14684; CacheManager: save cache to storage elapsed 3
+INFO    15:00:10:001  14684; [ap/t] tcp connected with 0733FFA8
+INFO    15:00:10:001  14684; [ap] tcp - creating channel with 3.0.163.78:8000, ts 0, flag: 64
+INFO    15:00:10:147  14684; [rlbs/u] responsed from 3.0.163.78:9700 with servers 111.62.209.88:8913
+INFO    15:00:10:147  14684; [rs] updateServers 111.62.209.88:8913, priority 3
+INFO    15:00:10:147  14684; [rs] updateServers 183.201.215.134:8913, priority 3
+INFO    15:00:10:147  14684; [rs] updateServers 117.149.195.7:8913, priority 3
+INFO    15:00:10:147  14684; [vocs/t] tcp find vos connected with 07375648
+INFO    15:00:10:147  14684; [vocs] tcp - request vos list.......
+INFO    15:00:10:230  14684; [ap/u] **responsed from 47.107.39.93:1080, TDS(64).
+INFO    15:00:10:230  14684; [ap] onAPTdsRes success with config: {}, size: 0
+INFO    15:00:10:233  14684; CacheManager: save cache to storage elapsed 3
+INFO    15:00:10:233  14684; [vocs/u] **responsed from 112.126.96.46:1080, 3 vos refreshed
+INFO    15:00:10:319  14684; [ap/u] **responsed from 3.0.163.78:8000, CDS(8).
+INFO    15:00:10:392  14684; [ap/u] **responsed from 3.0.163.78:8000, TDS(64).
+INFO    15:00:10:392  14684; [vocs/u] **responsed from 52.58.56.244:8000, 3 vos refreshed
+INFO    15:00:10:468  14684; [ap/u] **responsed from 112.126.96.46:25000, CDS(8).
+INFO    15:00:10:564  14684; [ap/u] **responsed from 112.126.96.46:25000, TDS(64).
+INFO    15:00:10:728  14684; [vocs/u] **responsed from 3.0.163.78:25000, 3 vos refreshed
+INFO    15:00:14:608  14684; [rs] **report stats: seq: 14, report list size 0, tx/rx: 1727/672, cache size: 0
+INFO    15:00:14:608  14684; [rs] report server1: 111.62.209.88:8913
